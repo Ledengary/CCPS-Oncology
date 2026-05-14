@@ -1,0 +1,13 @@
+Dataset,N,LLM,Method,Meets_5pct,Tau,Yield_pct,Accuracy,AUROC
+Contextual,1458,"Mean (SD), n=3",CCPS (Ours),-,-,60.7 ± 16.6,-,0.804
+Contextual,1458,"Mean (SD), n=3",P(IK),-,-,55.0 ± 18.5,-,0.785
+Contextual,1458,"Mean (SD), n=3",P(True),-,-,0.5 ± 0.7,-,0.534
+Contextual,1458,"Mean (SD), n=3",SAPLMA-F,-,-,0.0 ± 0.0,-,0.63
+Synthesis,764,"Mean (SD), n=3",CCPS (Ours),-,-,24.2 ± 10.9,-,0.789
+Synthesis,764,"Mean (SD), n=3",P(IK),-,-,21.0 ± 14.0,-,0.759
+Synthesis,764,"Mean (SD), n=3",P(True),-,-,0.0 ± 0.0,-,0.456
+Synthesis,764,"Mean (SD), n=3",SAPLMA-F,-,-,0.0 ± 0.0,-,0.611
+Clinical Inference,612,"Mean (SD), n=3",CCPS (Ours),-,-,77.2 ± 11.8,-,0.849
+Clinical Inference,612,"Mean (SD), n=3",P(IK),-,-,67.9 ± 21.4,-,0.797
+Clinical Inference,612,"Mean (SD), n=3",P(True),-,-,0.0 ± 0.0,-,0.525
+Clinical Inference,612,"Mean (SD), n=3",SAPLMA-F,-,-,24.8 ± 35.1,-,0.597

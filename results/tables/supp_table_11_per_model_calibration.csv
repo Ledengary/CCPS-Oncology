@@ -1,0 +1,91 @@
+Dataset,LLM,Method,ECE,Brier,AUCPR,AUROC
+Contextual,Qwen-0.5B,P(True),0.326,0.354,0.509,0.563
+Contextual,Qwen-0.5B,SAPLMA-M,0.065,0.249,0.517,0.543
+Contextual,Qwen-0.5B,SAPLMA-UM,0.136,0.261,0.547,0.586
+Contextual,Qwen-0.5B,SAPLMA-F,0.036,0.248,0.531,0.563
+Contextual,Qwen-0.5B,P(IK),0.202,0.279,0.596,0.62
+Contextual,Qwen-0.5B,CCPS (Ours),0.105,0.222,0.707,0.742
+Contextual,Llama-1B,P(True),0.245,0.31,0.41,0.497
+Contextual,Llama-1B,SAPLMA-M,0.073,0.239,0.493,0.596
+Contextual,Llama-1B,SAPLMA-UM,0.193,0.272,0.496,0.613
+Contextual,Llama-1B,SAPLMA-F,0.159,0.265,0.483,0.606
+Contextual,Llama-1B,P(IK),0.363,0.391,0.448,0.546
+Contextual,Llama-1B,CCPS (Ours),0.067,0.238,0.499,0.604
+Contextual,Qwen-1.5B,P(True),0.482,0.423,0.813,0.539
+Contextual,Qwen-1.5B,SAPLMA-M,0.463,0.382,0.845,0.6
+Contextual,Qwen-1.5B,SAPLMA-UM,0.116,0.179,0.794,0.504
+Contextual,Qwen-1.5B,SAPLMA-F,0.038,0.166,0.834,0.599
+Contextual,Qwen-1.5B,P(IK),0.453,0.385,0.932,0.78
+Contextual,Qwen-1.5B,CCPS (Ours),0.094,0.156,0.923,0.755
+Contextual,Llama-3B,P(True),0.836,0.814,0.903,0.601
+Contextual,Llama-3B,SAPLMA-M,0.21,0.21,0.932,0.681
+Contextual,Llama-3B,SAPLMA-UM,0.23,0.238,0.909,0.615
+Contextual,Llama-3B,SAPLMA-F,0.227,0.221,0.916,0.625
+Contextual,Llama-3B,P(IK),0.093,0.126,0.941,0.702
+Contextual,Llama-3B,CCPS (Ours),0.127,0.118,0.966,0.806
+Contextual,Qwen-3B,P(True),0.249,0.183,0.883,0.461
+Contextual,Qwen-3B,SAPLMA-M,0.429,0.28,0.905,0.538
+Contextual,Qwen-3B,SAPLMA-UM,0.501,0.343,0.955,0.727
+Contextual,Qwen-3B,SAPLMA-F,0.339,0.209,0.948,0.666
+Contextual,Qwen-3B,P(IK),0.277,0.167,0.983,0.872
+Contextual,Qwen-3B,CCPS (Ours),0.224,0.135,0.98,0.852
+Synthesis,Qwen-0.5B,P(True),0.443,0.435,0.391,0.538
+Synthesis,Qwen-0.5B,SAPLMA-M,0.049,0.24,0.394,0.511
+Synthesis,Qwen-0.5B,SAPLMA-UM,0.057,0.235,0.41,0.54
+Synthesis,Qwen-0.5B,SAPLMA-F,0.052,0.235,0.396,0.53
+Synthesis,Qwen-0.5B,P(IK),0.309,0.333,0.43,0.541
+Synthesis,Qwen-0.5B,CCPS (Ours),0.035,0.225,0.494,0.609
+Synthesis,Llama-1B,P(True),0.188,0.264,0.337,0.49
+Synthesis,Llama-1B,SAPLMA-M,0.135,0.239,0.372,0.542
+Synthesis,Llama-1B,SAPLMA-UM,0.216,0.277,0.361,0.537
+Synthesis,Llama-1B,SAPLMA-F,0.162,0.254,0.342,0.53
+Synthesis,Llama-1B,P(IK),0.444,0.456,0.324,0.502
+Synthesis,Llama-1B,CCPS (Ours),0.08,0.237,0.336,0.521
+Synthesis,Qwen-1.5B,P(True),0.335,0.36,0.579,0.464
+Synthesis,Qwen-1.5B,SAPLMA-M,0.31,0.316,0.746,0.702
+Synthesis,Qwen-1.5B,SAPLMA-UM,0.077,0.246,0.632,0.54
+Synthesis,Qwen-1.5B,SAPLMA-F,0.154,0.263,0.686,0.637
+Synthesis,Qwen-1.5B,P(IK),0.406,0.382,0.817,0.736
+Synthesis,Qwen-1.5B,CCPS (Ours),0.129,0.205,0.851,0.787
+Synthesis,Llama-3B,P(True),0.607,0.597,0.702,0.551
+Synthesis,Llama-3B,SAPLMA-M,0.337,0.351,0.66,0.509
+Synthesis,Llama-3B,SAPLMA-UM,0.281,0.314,0.719,0.612
+Synthesis,Llama-3B,SAPLMA-F,0.323,0.349,0.659,0.526
+Synthesis,Llama-3B,P(IK),0.087,0.21,0.832,0.703
+Synthesis,Llama-3B,CCPS (Ours),0.152,0.203,0.884,0.789
+Synthesis,Qwen-3B,P(True),0.226,0.269,0.604,0.354
+Synthesis,Qwen-3B,SAPLMA-M,0.237,0.262,0.763,0.565
+Synthesis,Qwen-3B,SAPLMA-UM,0.33,0.308,0.851,0.703
+Synthesis,Qwen-3B,SAPLMA-F,0.194,0.232,0.839,0.669
+Synthesis,Qwen-3B,P(IK),0.228,0.209,0.93,0.839
+Synthesis,Qwen-3B,CCPS (Ours),0.122,0.188,0.909,0.791
+Clinical Inference,Qwen-0.5B,P(True),0.335,0.359,0.536,0.584
+Clinical Inference,Qwen-0.5B,SAPLMA-M,0.065,0.241,0.57,0.57
+Clinical Inference,Qwen-0.5B,SAPLMA-UM,0.124,0.255,0.591,0.586
+Clinical Inference,Qwen-0.5B,SAPLMA-F,0.027,0.245,0.582,0.592
+Clinical Inference,Qwen-0.5B,P(IK),0.257,0.291,0.676,0.676
+Clinical Inference,Qwen-0.5B,CCPS (Ours),0.156,0.214,0.772,0.79
+Clinical Inference,Llama-1B,P(True),0.384,0.41,0.478,0.461
+Clinical Inference,Llama-1B,SAPLMA-M,0.048,0.246,0.593,0.607
+Clinical Inference,Llama-1B,SAPLMA-UM,0.196,0.283,0.589,0.598
+Clinical Inference,Llama-1B,SAPLMA-F,0.146,0.27,0.587,0.595
+Clinical Inference,Llama-1B,P(IK),0.352,0.386,0.533,0.537
+Clinical Inference,Llama-1B,CCPS (Ours),0.208,0.287,0.605,0.62
+Clinical Inference,Qwen-1.5B,P(True),0.615,0.502,0.876,0.523
+Clinical Inference,Qwen-1.5B,SAPLMA-M,0.507,0.385,0.882,0.522
+Clinical Inference,Qwen-1.5B,SAPLMA-UM,0.197,0.15,0.887,0.542
+Clinical Inference,Qwen-1.5B,SAPLMA-F,0.12,0.126,0.864,0.465
+Clinical Inference,Qwen-1.5B,P(IK),0.485,0.393,0.971,0.827
+Clinical Inference,Qwen-1.5B,CCPS (Ours),0.168,0.124,0.97,0.821
+Clinical Inference,Llama-3B,P(True),0.854,0.822,0.919,0.569
+Clinical Inference,Llama-3B,SAPLMA-M,0.208,0.2,0.939,0.627
+Clinical Inference,Llama-3B,SAPLMA-UM,0.174,0.178,0.937,0.637
+Clinical Inference,Llama-3B,SAPLMA-F,0.157,0.159,0.952,0.686
+Clinical Inference,Llama-3B,P(IK),0.075,0.101,0.952,0.679
+Clinical Inference,Llama-3B,CCPS (Ours),0.154,0.107,0.976,0.826
+Clinical Inference,Qwen-3B,P(True),0.253,0.154,0.926,0.482
+Clinical Inference,Qwen-3B,SAPLMA-M,0.45,0.269,0.93,0.482
+Clinical Inference,Qwen-3B,SAPLMA-UM,0.531,0.344,0.959,0.684
+Clinical Inference,Qwen-3B,SAPLMA-F,0.332,0.174,0.969,0.641
+Clinical Inference,Qwen-3B,P(IK),0.221,0.116,0.99,0.886
+Clinical Inference,Qwen-3B,CCPS (Ours),0.246,0.116,0.991,0.899

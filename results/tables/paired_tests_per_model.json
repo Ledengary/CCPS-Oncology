@@ -1,0 +1,1082 @@
+{
+  "contextual|Qwen2.5-0.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.17826404153717879,
+    "p_value": 1.2489404716543444e-43,
+    "wilcoxon_statistic": 309085.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PTRUE|ece": {
+    "delta": -0.22051205029212895,
+    "p_value": 1.2489404716543444e-43,
+    "wilcoxon_statistic": 309085.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PTRUE|brier": {
+    "delta": -0.1320030703552815,
+    "p_value": 1.2489404716543444e-43,
+    "wilcoxon_statistic": 309085.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.19816224237392688,
+    "p_value": 1.2489404716543444e-43,
+    "wilcoxon_statistic": 309085.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.17913666338209655,
+    "p_value": 1.0041466925200586e-36,
+    "wilcoxon_statistic": 328265.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|SAPLMA-F|ece": {
+    "delta": 0.06868473243157396,
+    "p_value": 1.0041466925200586e-36,
+    "wilcoxon_statistic": 328265.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.02563468599896973,
+    "p_value": 1.0041466925200586e-36,
+    "wilcoxon_statistic": 328265.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.1760642454547814,
+    "p_value": 1.0041466925200586e-36,
+    "wilcoxon_statistic": 328265.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PIK|auroc": {
+    "delta": 0.12132475555218669,
+    "p_value": 7.098318890219785e-17,
+    "wilcoxon_statistic": 397617.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PIK|ece": {
+    "delta": -0.0972584602314422,
+    "p_value": 7.098318890219785e-17,
+    "wilcoxon_statistic": 397617.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PIK|brier": {
+    "delta": -0.056685417452249004,
+    "p_value": 7.098318890219785e-17,
+    "wilcoxon_statistic": 397617.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-0.5B-Instruct|PIK|aucpr": {
+    "delta": 0.11080413702725811,
+    "p_value": 7.098318890219785e-17,
+    "wilcoxon_statistic": 397617.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PTRUE|auroc": {
+    "delta": 0.10769053135861234,
+    "p_value": 2.7052465407771632e-08,
+    "wilcoxon_statistic": 442412.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PTRUE|ece": {
+    "delta": -0.17776732380129528,
+    "p_value": 2.7052465407771632e-08,
+    "wilcoxon_statistic": 442412.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PTRUE|brier": {
+    "delta": -0.07210711240396142,
+    "p_value": 2.7052465407771632e-08,
+    "wilcoxon_statistic": 442412.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PTRUE|aucpr": {
+    "delta": 0.08884137878097675,
+    "p_value": 2.7052465407771632e-08,
+    "wilcoxon_statistic": 442412.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|SAPLMA-F|auroc": {
+    "delta": -0.0018258602874409169,
+    "p_value": 0.09526496326137228,
+    "wilcoxon_statistic": 504981.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.09234248925140082,
+    "p_value": 0.09526496326137228,
+    "wilcoxon_statistic": 504981.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.027682557658648826,
+    "p_value": 0.09526496326137228,
+    "wilcoxon_statistic": 504981.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.015737312179317675,
+    "p_value": 0.09526496326137228,
+    "wilcoxon_statistic": 504981.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PIK|auroc": {
+    "delta": 0.05803026270469991,
+    "p_value": 4.4934926549042213e-26,
+    "wilcoxon_statistic": 361983.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PIK|ece": {
+    "delta": -0.29559020226737187,
+    "p_value": 4.4934926549042213e-26,
+    "wilcoxon_statistic": 361983.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PIK|brier": {
+    "delta": -0.15304052011963895,
+    "p_value": 4.4934926549042213e-26,
+    "wilcoxon_statistic": 361983.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-1B-Instruct|PIK|aucpr": {
+    "delta": 0.051532777780582184,
+    "p_value": 4.4934926549042213e-26,
+    "wilcoxon_statistic": 361983.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.21688680989009423,
+    "p_value": 9.25365800974899e-134,
+    "wilcoxon_statistic": 136050.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PTRUE|ece": {
+    "delta": -0.388034613248579,
+    "p_value": 9.25365800974899e-134,
+    "wilcoxon_statistic": 136050.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PTRUE|brier": {
+    "delta": -0.2665981678739041,
+    "p_value": 9.25365800974899e-134,
+    "wilcoxon_statistic": 136050.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.10988705287167377,
+    "p_value": 9.25365800974899e-134,
+    "wilcoxon_statistic": 136050.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.1562538211081569,
+    "p_value": 0.3336761768643599,
+    "wilcoxon_statistic": 516261.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|SAPLMA-F|ece": {
+    "delta": 0.056884566329634276,
+    "p_value": 0.3336761768643599,
+    "wilcoxon_statistic": 516261.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.01011206407738749,
+    "p_value": 0.3336761768643599,
+    "wilcoxon_statistic": 516261.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.08864906148698692,
+    "p_value": 0.3336761768643599,
+    "wilcoxon_statistic": 516261.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PIK|auroc": {
+    "delta": -0.02458305489599477,
+    "p_value": 8.667503454509066e-70,
+    "wilcoxon_statistic": 247859.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PIK|ece": {
+    "delta": -0.35834156792142663,
+    "p_value": 8.667503454509066e-70,
+    "wilcoxon_statistic": 247859.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PIK|brier": {
+    "delta": -0.2293957694071411,
+    "p_value": 8.667503454509066e-70,
+    "wilcoxon_statistic": 247859.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-1.5B-Instruct|PIK|aucpr": {
+    "delta": -0.008866781538193202,
+    "p_value": 8.667503454509066e-70,
+    "wilcoxon_statistic": 247859.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.20497675576955,
+    "p_value": 2.433730299775502e-221,
+    "wilcoxon_statistic": 21151.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PTRUE|ece": {
+    "delta": -0.7096494715366979,
+    "p_value": 2.433730299775502e-221,
+    "wilcoxon_statistic": 21151.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PTRUE|brier": {
+    "delta": -0.6963063229284772,
+    "p_value": 2.433730299775502e-221,
+    "wilcoxon_statistic": 21151.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.0628187300749028,
+    "p_value": 2.433730299775502e-221,
+    "wilcoxon_statistic": 21151.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.18104142453926608,
+    "p_value": 0.3821815404876162,
+    "wilcoxon_statistic": 517754.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.10026718813217589,
+    "p_value": 0.3821815404876162,
+    "wilcoxon_statistic": 517754.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.10271874165957029,
+    "p_value": 0.3821815404876162,
+    "wilcoxon_statistic": 517754.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.050011174258589586,
+    "p_value": 0.3821815404876162,
+    "wilcoxon_statistic": 517754.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PIK|auroc": {
+    "delta": 0.10390171011124005,
+    "p_value": 4.005416502911812e-07,
+    "wilcoxon_statistic": 450304.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PIK|ece": {
+    "delta": 0.03354295403460253,
+    "p_value": 4.005416502911812e-07,
+    "wilcoxon_statistic": 450304.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PIK|brier": {
+    "delta": -0.00843445807149068,
+    "p_value": 4.005416502911812e-07,
+    "wilcoxon_statistic": 450304.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Llama-3.2-3B-Instruct|PIK|aucpr": {
+    "delta": 0.025290486626867947,
+    "p_value": 4.005416502911812e-07,
+    "wilcoxon_statistic": 450304.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.39087766881918357,
+    "p_value": 3.199029575190689e-25,
+    "wilcoxon_statistic": 364971.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PTRUE|ece": {
+    "delta": -0.024406995975466056,
+    "p_value": 3.199029575190689e-25,
+    "wilcoxon_statistic": 364971.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PTRUE|brier": {
+    "delta": -0.04858577802780223,
+    "p_value": 3.199029575190689e-25,
+    "wilcoxon_statistic": 364971.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.09660431031442818,
+    "p_value": 3.199029575190689e-25,
+    "wilcoxon_statistic": 364971.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.1856582638538703,
+    "p_value": 9.352430764553777e-139,
+    "wilcoxon_statistic": 128627.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.11458854546926311,
+    "p_value": 9.352430764553777e-139,
+    "wilcoxon_statistic": 128627.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.07473838264479876,
+    "p_value": 9.352430764553777e-139,
+    "wilcoxon_statistic": 128627.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.03197912245587775,
+    "p_value": 9.352430764553777e-139,
+    "wilcoxon_statistic": 128627.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PIK|auroc": {
+    "delta": -0.019573380594055778,
+    "p_value": 0.00014582966871089454,
+    "wilcoxon_statistic": 470735.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PIK|ece": {
+    "delta": -0.052256922019116636,
+    "p_value": 0.00014582966871089454,
+    "wilcoxon_statistic": 470735.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PIK|brier": {
+    "delta": -0.03273102529808877,
+    "p_value": 0.00014582966871089454,
+    "wilcoxon_statistic": 470735.0,
+    "n_nonzero": 1458
+  },
+  "contextual|Qwen2.5-3B-Instruct|PIK|aucpr": {
+    "delta": -0.0035404154600814364,
+    "p_value": 0.00014582966871089454,
+    "wilcoxon_statistic": 470735.0,
+    "n_nonzero": 1458
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.07128983843912784,
+    "p_value": 2.2255612597214954e-39,
+    "wilcoxon_statistic": 65997.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PTRUE|ece": {
+    "delta": -0.4071420356241196,
+    "p_value": 2.2255612597214954e-39,
+    "wilcoxon_statistic": 65997.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PTRUE|brier": {
+    "delta": -0.2100592023459807,
+    "p_value": 2.2255612597214954e-39,
+    "wilcoxon_statistic": 65997.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.10284905915401837,
+    "p_value": 2.2255612597214954e-39,
+    "wilcoxon_statistic": 65997.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.07919499131867813,
+    "p_value": 7.409674940162026e-07,
+    "wilcoxon_statistic": 115908.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.01662899639593997,
+    "p_value": 7.409674940162026e-07,
+    "wilcoxon_statistic": 115908.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.010569688503626856,
+    "p_value": 7.409674940162026e-07,
+    "wilcoxon_statistic": 115908.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.0972145516175757,
+    "p_value": 7.409674940162026e-07,
+    "wilcoxon_statistic": 115908.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PIK|auroc": {
+    "delta": 0.06790927282893389,
+    "p_value": 1.2599817629800403e-24,
+    "wilcoxon_statistic": 83606.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PIK|ece": {
+    "delta": -0.2731447885914934,
+    "p_value": 1.2599817629800403e-24,
+    "wilcoxon_statistic": 83606.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PIK|brier": {
+    "delta": -0.10870215106873321,
+    "p_value": 1.2599817629800403e-24,
+    "wilcoxon_statistic": 83606.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-0.5B-Instruct|PIK|aucpr": {
+    "delta": 0.06319830622992162,
+    "p_value": 1.2599817629800403e-24,
+    "wilcoxon_statistic": 83606.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PTRUE|auroc": {
+    "delta": 0.03068816352523618,
+    "p_value": 0.3999643955398119,
+    "wilcoxon_statistic": 140979.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PTRUE|ece": {
+    "delta": -0.10772383193843828,
+    "p_value": 0.3999643955398119,
+    "wilcoxon_statistic": 140979.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PTRUE|brier": {
+    "delta": -0.027462546120991305,
+    "p_value": 0.3999643955398119,
+    "wilcoxon_statistic": 140979.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PTRUE|aucpr": {
+    "delta": -0.0009341401303631924,
+    "p_value": 0.3999643955398119,
+    "wilcoxon_statistic": 140979.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|SAPLMA-F|auroc": {
+    "delta": -0.00929226563531449,
+    "p_value": 0.23575350227025993,
+    "wilcoxon_statistic": 138880.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.08177089837089828,
+    "p_value": 0.23575350227025993,
+    "wilcoxon_statistic": 138880.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.017054448769687314,
+    "p_value": 0.23575350227025993,
+    "wilcoxon_statistic": 138880.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|SAPLMA-F|aucpr": {
+    "delta": -0.005947139127079282,
+    "p_value": 0.23575350227025993,
+    "wilcoxon_statistic": 138880.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PIK|auroc": {
+    "delta": 0.018813634351482977,
+    "p_value": 9.863933080436187e-26,
+    "wilcoxon_statistic": 82120.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PIK|ece": {
+    "delta": -0.3641181854002417,
+    "p_value": 9.863933080436187e-26,
+    "wilcoxon_statistic": 82120.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PIK|brier": {
+    "delta": -0.2192266176680992,
+    "p_value": 9.863933080436187e-26,
+    "wilcoxon_statistic": 82120.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-1B-Instruct|PIK|aucpr": {
+    "delta": 0.012149455004851595,
+    "p_value": 9.863933080436187e-26,
+    "wilcoxon_statistic": 82120.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.32262830371382994,
+    "p_value": 3.163765784934118e-38,
+    "wilcoxon_statistic": 67233.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PTRUE|ece": {
+    "delta": -0.2057385352971666,
+    "p_value": 3.163765784934118e-38,
+    "wilcoxon_statistic": 67233.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PTRUE|brier": {
+    "delta": -0.15561600390634575,
+    "p_value": 3.163765784934118e-38,
+    "wilcoxon_statistic": 67233.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.27179578142004945,
+    "p_value": 3.163765784934118e-38,
+    "wilcoxon_statistic": 67233.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.14966037252221454,
+    "p_value": 1.2920143458170356e-12,
+    "wilcoxon_statistic": 102820.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.024351197933651397,
+    "p_value": 1.2920143458170356e-12,
+    "wilcoxon_statistic": 102820.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.05801132755590152,
+    "p_value": 1.2920143458170356e-12,
+    "wilcoxon_statistic": 102820.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.16550702422378072,
+    "p_value": 1.2920143458170356e-12,
+    "wilcoxon_statistic": 102820.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PIK|auroc": {
+    "delta": 0.0510544827979037,
+    "p_value": 1.886703046594836e-22,
+    "wilcoxon_statistic": 86634.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PIK|ece": {
+    "delta": -0.27712691155370783,
+    "p_value": 1.886703046594836e-22,
+    "wilcoxon_statistic": 86634.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PIK|brier": {
+    "delta": -0.17682028142385028,
+    "p_value": 1.886703046594836e-22,
+    "wilcoxon_statistic": 86634.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-1.5B-Instruct|PIK|aucpr": {
+    "delta": 0.03403777248491391,
+    "p_value": 1.886703046594836e-22,
+    "wilcoxon_statistic": 86634.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.23836506327212648,
+    "p_value": 1.0478895562433645e-69,
+    "wilcoxon_statistic": 38424.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PTRUE|ece": {
+    "delta": -0.4555684551450361,
+    "p_value": 1.0478895562433645e-69,
+    "wilcoxon_statistic": 38424.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PTRUE|brier": {
+    "delta": -0.394100579597945,
+    "p_value": 1.0478895562433645e-69,
+    "wilcoxon_statistic": 38424.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.18156167198006812,
+    "p_value": 1.0478895562433645e-69,
+    "wilcoxon_statistic": 38424.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.2629529495700499,
+    "p_value": 2.391216521294519e-11,
+    "wilcoxon_statistic": 105354.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.1711096289404302,
+    "p_value": 2.391216521294519e-11,
+    "wilcoxon_statistic": 105354.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.14543196635794867,
+    "p_value": 2.391216521294519e-11,
+    "wilcoxon_statistic": 105354.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.22518708627369177,
+    "p_value": 2.391216521294519e-11,
+    "wilcoxon_statistic": 105354.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PIK|auroc": {
+    "delta": 0.08620404791408498,
+    "p_value": 0.14085334487984377,
+    "wilcoxon_statistic": 137129.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PIK|ece": {
+    "delta": 0.06487405241627972,
+    "p_value": 0.14085334487984377,
+    "wilcoxon_statistic": 137129.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PIK|brier": {
+    "delta": -0.006299455695389672,
+    "p_value": 0.14085334487984377,
+    "wilcoxon_statistic": 137129.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Llama-3.2-3B-Instruct|PIK|aucpr": {
+    "delta": 0.05196477831975399,
+    "p_value": 0.14085334487984377,
+    "wilcoxon_statistic": 137129.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.43778991347830376,
+    "p_value": 6.628674513193966e-07,
+    "wilcoxon_statistic": 115776.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PTRUE|ece": {
+    "delta": -0.10391461664349988,
+    "p_value": 6.628674513193966e-07,
+    "wilcoxon_statistic": 115776.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PTRUE|brier": {
+    "delta": -0.08092740287073305,
+    "p_value": 6.628674513193966e-07,
+    "wilcoxon_statistic": 115776.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.3051806451447069,
+    "p_value": 6.628674513193966e-07,
+    "wilcoxon_statistic": 115776.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.12272592690068107,
+    "p_value": 3.159929696040808e-17,
+    "wilcoxon_statistic": 94611.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.07138478989025374,
+    "p_value": 3.159929696040808e-17,
+    "wilcoxon_statistic": 94611.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.04321873588173239,
+    "p_value": 3.159929696040808e-17,
+    "wilcoxon_statistic": 94611.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.07032296444443042,
+    "p_value": 3.159929696040808e-17,
+    "wilcoxon_statistic": 94611.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PIK|auroc": {
+    "delta": -0.047734973846103035,
+    "p_value": 0.037574515625119,
+    "wilcoxon_statistic": 133426.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PIK|ece": {
+    "delta": -0.10608130299452087,
+    "p_value": 0.037574515625119,
+    "wilcoxon_statistic": 133426.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PIK|brier": {
+    "delta": -0.020530528983780744,
+    "p_value": 0.037574515625119,
+    "wilcoxon_statistic": 133426.0,
+    "n_nonzero": 764
+  },
+  "synthesis|Qwen2.5-3B-Instruct|PIK|aucpr": {
+    "delta": -0.02111098037343906,
+    "p_value": 0.037574515625119,
+    "wilcoxon_statistic": 133426.0,
+    "n_nonzero": 764
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.20625215665976537,
+    "p_value": 7.300047024744285e-23,
+    "wilcoxon_statistic": 50714.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PTRUE|ece": {
+    "delta": -0.1792007905790229,
+    "p_value": 7.300047024744285e-23,
+    "wilcoxon_statistic": 50714.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PTRUE|brier": {
+    "delta": -0.14441343300894058,
+    "p_value": 7.300047024744285e-23,
+    "wilcoxon_statistic": 50714.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.23580649040301427,
+    "p_value": 7.300047024744285e-23,
+    "wilcoxon_statistic": 50714.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.19812154934437542,
+    "p_value": 3.514973653642849e-26,
+    "wilcoxon_statistic": 47472.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|SAPLMA-F|ece": {
+    "delta": 0.12919523240694036,
+    "p_value": 3.514973653642849e-26,
+    "wilcoxon_statistic": 47472.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.030645488053503145,
+    "p_value": 3.514973653642849e-26,
+    "wilcoxon_statistic": 47472.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.1900976065049027,
+    "p_value": 3.514973653642849e-26,
+    "wilcoxon_statistic": 47472.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PIK|auroc": {
+    "delta": 0.1139686853002071,
+    "p_value": 2.8783729089813284e-13,
+    "wilcoxon_statistic": 61845.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PIK|ece": {
+    "delta": -0.10049721915153118,
+    "p_value": 2.8783729089813284e-13,
+    "wilcoxon_statistic": 61845.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PIK|brier": {
+    "delta": -0.07722419734609445,
+    "p_value": 2.8783729089813284e-13,
+    "wilcoxon_statistic": 61845.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-0.5B-Instruct|PIK|aucpr": {
+    "delta": 0.09595706692295503,
+    "p_value": 2.8783729089813284e-13,
+    "wilcoxon_statistic": 61845.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PTRUE|auroc": {
+    "delta": 0.1588521910094351,
+    "p_value": 1.0892274684515222e-21,
+    "wilcoxon_statistic": 51920.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PTRUE|ece": {
+    "delta": -0.176405986128801,
+    "p_value": 1.0892274684515222e-21,
+    "wilcoxon_statistic": 51920.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PTRUE|brier": {
+    "delta": -0.12318497549827173,
+    "p_value": 1.0892274684515222e-21,
+    "wilcoxon_statistic": 51920.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PTRUE|aucpr": {
+    "delta": 0.12743642903767216,
+    "p_value": 1.0892274684515222e-21,
+    "wilcoxon_statistic": 51920.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.0248378514109866,
+    "p_value": 0.03591843713613406,
+    "wilcoxon_statistic": 84609.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|SAPLMA-F|ece": {
+    "delta": 0.06170343532184372,
+    "p_value": 0.03591843713613406,
+    "wilcoxon_statistic": 84609.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|SAPLMA-F|brier": {
+    "delta": 0.01649477159287638,
+    "p_value": 0.03591843713613406,
+    "wilcoxon_statistic": 84609.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.01844854640489535,
+    "p_value": 0.03591843713613406,
+    "wilcoxon_statistic": 84609.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PIK|auroc": {
+    "delta": 0.08240995009990715,
+    "p_value": 4.0978608419797096e-06,
+    "wilcoxon_statistic": 73632.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PIK|ece": {
+    "delta": -0.14487724009794947,
+    "p_value": 4.0978608419797096e-06,
+    "wilcoxon_statistic": 73632.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PIK|brier": {
+    "delta": -0.09914513753439791,
+    "p_value": 4.0978608419797096e-06,
+    "wilcoxon_statistic": 73632.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-1B-Instruct|PIK|aucpr": {
+    "delta": 0.0724877083491905,
+    "p_value": 4.0978608419797096e-06,
+    "wilcoxon_statistic": 73632.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PTRUE|auroc": {
+    "delta": 0.2984730625180063,
+    "p_value": 1.1492150806693425e-84,
+    "wilcoxon_statistic": 8469.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PTRUE|ece": {
+    "delta": -0.44702003265615364,
+    "p_value": 1.1492150806693425e-84,
+    "wilcoxon_statistic": 8469.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PTRUE|brier": {
+    "delta": -0.3772024830347416,
+    "p_value": 1.1492150806693425e-84,
+    "wilcoxon_statistic": 8469.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PTRUE|aucpr": {
+    "delta": 0.09427967973848261,
+    "p_value": 1.1492150806693425e-84,
+    "wilcoxon_statistic": 8469.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.35648948429847305,
+    "p_value": 0.007369449519341843,
+    "wilcoxon_statistic": 82063.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|SAPLMA-F|ece": {
+    "delta": 0.047942169546301816,
+    "p_value": 0.007369449519341843,
+    "wilcoxon_statistic": 82063.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.0014916446717530285,
+    "p_value": 0.007369449519341843,
+    "wilcoxon_statistic": 82063.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.10614176509883144,
+    "p_value": 0.007369449519341843,
+    "wilcoxon_statistic": 82063.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PIK|auroc": {
+    "delta": -0.006110150773072087,
+    "p_value": 1.842025321384175e-39,
+    "wilcoxon_statistic": 36272.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PIK|ece": {
+    "delta": -0.3170119207614905,
+    "p_value": 1.842025321384175e-39,
+    "wilcoxon_statistic": 36272.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PIK|brier": {
+    "delta": -0.2685740414981696,
+    "p_value": 1.842025321384175e-39,
+    "wilcoxon_statistic": 36272.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-1.5B-Instruct|PIK|aucpr": {
+    "delta": -0.0016033837866273881,
+    "p_value": 1.842025321384175e-39,
+    "wilcoxon_statistic": 36272.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.25735629562043794,
+    "p_value": 1.596191058764785e-97,
+    "wilcoxon_statistic": 2080.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PTRUE|ece": {
+    "delta": -0.6995810019917591,
+    "p_value": 1.596191058764785e-97,
+    "wilcoxon_statistic": 2080.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PTRUE|brier": {
+    "delta": -0.7148241563398813,
+    "p_value": 1.596191058764785e-97,
+    "wilcoxon_statistic": 2080.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.057093596941044544,
+    "p_value": 1.596191058764785e-97,
+    "wilcoxon_statistic": 2080.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.1400404881386862,
+    "p_value": 3.4383660369456183e-07,
+    "wilcoxon_statistic": 71482.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.0029365556988731056,
+    "p_value": 3.4383660369456183e-07,
+    "wilcoxon_statistic": 71482.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.05195479892855347,
+    "p_value": 3.4383660369456183e-07,
+    "wilcoxon_statistic": 71482.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.02370673221544084,
+    "p_value": 3.4383660369456183e-07,
+    "wilcoxon_statistic": 71482.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PIK|auroc": {
+    "delta": 0.1466697080291971,
+    "p_value": 2.738446008506274e-17,
+    "wilcoxon_statistic": 56781.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PIK|ece": {
+    "delta": 0.0785763573412802,
+    "p_value": 2.738446008506274e-17,
+    "wilcoxon_statistic": 56781.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PIK|brier": {
+    "delta": 0.006050712164809416,
+    "p_value": 2.738446008506274e-17,
+    "wilcoxon_statistic": 56781.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Llama-3.2-3B-Instruct|PIK|aucpr": {
+    "delta": 0.02371778153006776,
+    "p_value": 2.738446008506274e-17,
+    "wilcoxon_statistic": 56781.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PTRUE|auroc": {
+    "delta": 0.4174812030075188,
+    "p_value": 0.104252842688314,
+    "wilcoxon_statistic": 86680.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PTRUE|ece": {
+    "delta": -0.006556541616708822,
+    "p_value": 0.104252842688314,
+    "wilcoxon_statistic": 86680.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PTRUE|brier": {
+    "delta": -0.03803050891573098,
+    "p_value": 0.104252842688314,
+    "wilcoxon_statistic": 86680.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PTRUE|aucpr": {
+    "delta": 0.06565160977516482,
+    "p_value": 0.104252842688314,
+    "wilcoxon_statistic": 86680.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|SAPLMA-F|auroc": {
+    "delta": 0.2577694235588973,
+    "p_value": 8.019062449875999e-77,
+    "wilcoxon_statistic": 12622.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|SAPLMA-F|ece": {
+    "delta": -0.08572341185184856,
+    "p_value": 8.019062449875999e-77,
+    "wilcoxon_statistic": 12622.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|SAPLMA-F|brier": {
+    "delta": -0.05780221122844417,
+    "p_value": 8.019062449875999e-77,
+    "wilcoxon_statistic": 12622.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|SAPLMA-F|aucpr": {
+    "delta": 0.022219301652642298,
+    "p_value": 8.019062449875999e-77,
+    "wilcoxon_statistic": 12622.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PIK|auroc": {
+    "delta": 0.012865497076023469,
+    "p_value": 0.0006047876365613673,
+    "wilcoxon_statistic": 78782.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PIK|ece": {
+    "delta": 0.02513408772890871,
+    "p_value": 0.0006047876365613673,
+    "wilcoxon_statistic": 78782.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PIK|brier": {
+    "delta": -0.00034357716794898574,
+    "p_value": 0.0006047876365613673,
+    "wilcoxon_statistic": 78782.0,
+    "n_nonzero": 612
+  },
+  "clinical_inference|Qwen2.5-3B-Instruct|PIK|aucpr": {
+    "delta": 0.0008188136414472025,
+    "p_value": 0.0006047876365613673,
+    "wilcoxon_statistic": 78782.0,
+    "n_nonzero": 612
+  }
+}

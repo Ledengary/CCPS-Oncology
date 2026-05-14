@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+.env
+.envrc
+
+# Local logs from launcher scripts
+logs/
+**/logs/
+
+# Regenerable intermediate artifacts
+representations/
+generations/
+data/train/ehrnoteqa_train_mcqa.csv
+data/answered_*/
+features/
+
+# Credentialed test set — PhysioNet only, never commit
+data/source/
+
+# Editor metadata
+.vscode/
+.idea/
+*.swp

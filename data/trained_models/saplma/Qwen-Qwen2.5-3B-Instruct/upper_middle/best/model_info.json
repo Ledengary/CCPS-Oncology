@@ -1,0 +1,40 @@
+{
+  "input_dim": 2048,
+  "hidden_layers": "512,128",
+  "layer_type": "upper_middle",
+  "config": {
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "hidden_layers": [
+      512,
+      128
+    ],
+    "dropout": 0.2,
+    "batch_size": 32,
+    "max_epochs": 200,
+    "patience": 20,
+    "grad_clip": 1.0
+  },
+  "metrics": {
+    "n_samples": 332,
+    "accuracy": 0.39156626506024095,
+    "ece": 0.26425355048962385,
+    "brier": 0.2688240838092798,
+    "precision": 0.9,
+    "recall": 0.04285714285714286,
+    "f1": 0.08181818181818182,
+    "sensitivity": 0.04285714285714286,
+    "specificity": 0.9918032786885246,
+    "auroc": 0.7596799375487899,
+    "aucpr": 0.8326359730806735
+  },
+  "best_epoch": 14,
+  "best_operating_point": {
+    "tau": 0.40900000000000003,
+    "sens": 0.566666666666664,
+    "spec": 0.8278688524590097
+  },
+  "parameter_info": {
+    "n_params": 1114881
+  }
+}

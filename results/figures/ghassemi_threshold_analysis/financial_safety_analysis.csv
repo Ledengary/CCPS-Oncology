@@ -1,0 +1,73 @@
+Scenario,Dataset,Method,Mean % Auto,Est. Annual Savings,Auto_Correct (Safe),Auto_Error (Risk),Auto_Total,Error Rate
+Private Specialist Group,COMBINED (Avg All Data),P(True),0.1%,$71,8,1,9,4.76%
+Private Specialist Group,COMBINED (Avg All Data),P(IK),29.1%,"$22,947","2,781",126,"2,907",4.30%
+Private Specialist Group,COMBINED (Avg All Data),CCPS (Ours),32.7%,"$25,836","3,140",133,"3,273",4.04%
+Private Specialist Group,COMBINED (Avg All Data),SAPLMA-M,0.0%,$0,0,0,0,N/A
+Private Specialist Group,COMBINED (Avg All Data),SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Private Specialist Group,COMBINED (Avg All Data),SAPLMA-F,5.0%,"$3,915",472,24,496,4.82%
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,P(True),0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,P(IK),41.6%,"$32,838","4,014",146,"4,160",3.50%
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,CCPS (Ours),47.3%,"$37,298","4,567",158,"4,725",3.34%
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Clinical-Inference,SAPLMA-F,14.9%,"$11,762","1,418",72,"1,490",4.82%
+Private Specialist Group,CORAL-MCQA-Contextual,P(True),0.3%,$221,26,2,28,4.76%
+Private Specialist Group,CORAL-MCQA-Contextual,P(IK),33.0%,"$26,049","3,146",154,"3,300",4.66%
+Private Specialist Group,CORAL-MCQA-Contextual,CCPS (Ours),36.4%,"$28,757","3,472",171,"3,643",4.68%
+Private Specialist Group,CORAL-MCQA-Contextual,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Contextual,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Contextual,SAPLMA-F,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Synthesis,P(True),0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Synthesis,P(IK),12.6%,"$9,954","1,201",60,"1,261",4.75%
+Private Specialist Group,CORAL-MCQA-Synthesis,CCPS (Ours),14.5%,"$11,446","1,390",60,"1,450",4.09%
+Private Specialist Group,CORAL-MCQA-Synthesis,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Synthesis,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Private Specialist Group,CORAL-MCQA-Synthesis,SAPLMA-F,0.0%,$0,0,0,0,N/A
+Academic Medical Center,COMBINED (Avg All Data),P(True),0.1%,$257,45,3,48,4.76%
+Academic Medical Center,COMBINED (Avg All Data),P(IK),29.1%,"$77,686","13,911",626,"14,537",4.30%
+Academic Medical Center,COMBINED (Avg All Data),CCPS (Ours),32.7%,"$87,455","15,704",661,"16,365",4.04%
+Academic Medical Center,COMBINED (Avg All Data),SAPLMA-M,0.0%,$0,0,0,0,N/A
+Academic Medical Center,COMBINED (Avg All Data),SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Academic Medical Center,COMBINED (Avg All Data),SAPLMA-F,5.0%,"$13,269","2,363",120,"2,483",4.82%
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,P(True),0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,P(IK),41.6%,"$111,155","20,071",729,"20,800",3.50%
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,CCPS (Ours),47.3%,"$126,263","22,838",789,"23,627",3.34%
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Clinical-Inference,SAPLMA-F,14.9%,"$39,813","7,090",360,"7,450",4.82%
+Academic Medical Center,CORAL-MCQA-Contextual,P(True),0.3%,$770,137,7,144,4.76%
+Academic Medical Center,CORAL-MCQA-Contextual,P(IK),33.0%,"$88,187","15,733",769,"16,502",4.66%
+Academic Medical Center,CORAL-MCQA-Contextual,CCPS (Ours),36.4%,"$97,346","17,363",853,"18,216",4.68%
+Academic Medical Center,CORAL-MCQA-Contextual,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Contextual,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Contextual,SAPLMA-F,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Synthesis,P(True),0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Synthesis,P(IK),12.6%,"$33,710","6,008",300,"6,308",4.75%
+Academic Medical Center,CORAL-MCQA-Synthesis,CCPS (Ours),14.5%,"$38,749","6,954",297,"7,251",4.09%
+Academic Medical Center,CORAL-MCQA-Synthesis,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Synthesis,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Academic Medical Center,CORAL-MCQA-Synthesis,SAPLMA-F,0.0%,$0,0,0,0,N/A
+Integrated Health Network,COMBINED (Avg All Data),P(True),0.1%,"$5,130",914,46,960,4.76%
+Integrated Health Network,COMBINED (Avg All Data),P(IK),29.1%,"$1,553,736","278,238","12,506","290,744",4.30%
+Integrated Health Network,COMBINED (Avg All Data),CCPS (Ours),32.7%,"$1,749,107","314,094","13,209","327,303",4.04%
+Integrated Health Network,COMBINED (Avg All Data),SAPLMA-M,0.0%,$0,0,0,0,N/A
+Integrated Health Network,COMBINED (Avg All Data),SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Integrated Health Network,COMBINED (Avg All Data),SAPLMA-F,5.0%,"$265,453","47,276","2,397","49,673",4.82%
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,P(True),0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,P(IK),41.6%,"$2,223,173","401,450","14,563","416,013",3.50%
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,CCPS (Ours),47.3%,"$2,525,302","456,788","15,761","472,549",3.34%
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Clinical-Inference,SAPLMA-F,14.9%,"$796,358","141,829","7,190","149,019",4.82%
+Integrated Health Network,CORAL-MCQA-Contextual,P(True),0.3%,"$15,391","2,742",138,"2,880",4.76%
+Integrated Health Network,CORAL-MCQA-Contextual,P(IK),33.0%,"$1,763,739","314,667","15,374","330,041",4.66%
+Integrated Health Network,CORAL-MCQA-Contextual,CCPS (Ours),36.4%,"$1,947,001","347,277","17,057","364,334",4.68%
+Integrated Health Network,CORAL-MCQA-Contextual,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Contextual,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Contextual,SAPLMA-F,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Synthesis,P(True),0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Synthesis,P(IK),12.6%,"$674,295","120,190","5,988","126,178",4.75%
+Integrated Health Network,CORAL-MCQA-Synthesis,CCPS (Ours),14.5%,"$775,019","139,094","5,932","145,026",4.09%
+Integrated Health Network,CORAL-MCQA-Synthesis,SAPLMA-M,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Synthesis,SAPLMA-UM,0.0%,$0,0,0,0,N/A
+Integrated Health Network,CORAL-MCQA-Synthesis,SAPLMA-F,0.0%,$0,0,0,0,N/A

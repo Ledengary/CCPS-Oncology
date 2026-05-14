@@ -1,0 +1,1442 @@
+{
+  "PTRUE|contextual|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5634010460092473,
+    "ci_lo": 0.5345475740775869,
+    "ci_hi": 0.587995340169693,
+    "se": 0.01349765206367088
+  },
+  "PTRUE|contextual|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.32550993373691633,
+    "ci_lo": 0.3011414372595985,
+    "ci_hi": 0.35066826135451573,
+    "se": 0.011629215854397948
+  },
+  "PTRUE|contextual|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.35411413719183354,
+    "ci_lo": 0.33769658370795075,
+    "ci_hi": 0.37034424222737045,
+    "se": 0.007663046749646518
+  },
+  "PTRUE|contextual|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.5087318519030444,
+    "ci_lo": 0.4764683320175956,
+    "ci_hi": 0.5405294839072903,
+    "se": 0.016699972776764386
+  },
+  "PTRUE|contextual|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.49661638538372416,
+    "ci_lo": 0.4699827199547478,
+    "ci_hi": 0.524376283086427,
+    "se": 0.016200542044134385
+  },
+  "PTRUE|contextual|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.24473955138188513,
+    "ci_lo": 0.21987352963761425,
+    "ci_hi": 0.2711342385981234,
+    "se": 0.013515418244348387
+  },
+  "PTRUE|contextual|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.30972044305664576,
+    "ci_lo": 0.2919872802492778,
+    "ci_hi": 0.32607515298219397,
+    "se": 0.009526109836934023
+  },
+  "PTRUE|contextual|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.410332465047208,
+    "ci_lo": 0.3751529379299932,
+    "ci_hi": 0.4466892219926291,
+    "se": 0.01892321825849223
+  },
+  "PTRUE|contextual|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.5386106095289551,
+    "ci_lo": 0.5045884603023489,
+    "ci_hi": 0.5719520276365755,
+    "se": 0.018038686550809542
+  },
+  "PTRUE|contextual|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.48247316348863395,
+    "ci_lo": 0.45723572557534004,
+    "ci_hi": 0.5047080584515565,
+    "se": 0.011904132094299316
+  },
+  "PTRUE|contextual|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.42270064008239555,
+    "ci_lo": 0.40808735847978367,
+    "ci_hi": 0.4349522008737155,
+    "se": 0.00694507616684409
+  },
+  "PTRUE|contextual|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8131518059618014,
+    "ci_lo": 0.7913345632870153,
+    "ci_hi": 0.8387068912275005,
+    "se": 0.013424146041371467
+  },
+  "PTRUE|contextual|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.6013489955171841,
+    "ci_lo": 0.5619071134784938,
+    "ci_hi": 0.6369210933962736,
+    "se": 0.01938633155278372
+  },
+  "PTRUE|contextual|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.8361524936560394,
+    "ci_lo": 0.8221874618576871,
+    "ci_hi": 0.849168589577623,
+    "se": 0.007047357735953263
+  },
+  "PTRUE|contextual|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.8141878047950913,
+    "ci_lo": 0.8011804441661239,
+    "ci_hi": 0.8264295220413894,
+    "se": 0.006622532138134293
+  },
+  "PTRUE|contextual|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9033892044915968,
+    "ci_lo": 0.8854716411517688,
+    "ci_hi": 0.9182697121651376,
+    "se": 0.00884421298110416
+  },
+  "PTRUE|contextual|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.46112250742936595,
+    "ci_lo": 0.40755983675218793,
+    "ci_hi": 0.5029659540939787,
+    "se": 0.02437779854176017
+  },
+  "PTRUE|contextual|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.24878194239178977,
+    "ci_lo": 0.22960935915004754,
+    "ci_hi": 0.26265202688941697,
+    "se": 0.009123464788280824
+  },
+  "PTRUE|contextual|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.18329052747136923,
+    "ci_lo": 0.17535975964197878,
+    "ci_hi": 0.19295339311854362,
+    "se": 0.00504297258468688
+  },
+  "PTRUE|contextual|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.8830812636159231,
+    "ci_lo": 0.8582299742809106,
+    "ci_hi": 0.9021302336223193,
+    "se": 0.011868543559168193
+  },
+  "SAPLMA-F|contextual|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5625284241643296,
+    "ci_lo": 0.5428736675957699,
+    "ci_hi": 0.5934282429859308,
+    "se": 0.013941545094180727
+  },
+  "SAPLMA-F|contextual|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.03631315101321342,
+    "ci_lo": 0.009882434508641883,
+    "ci_hi": 0.06101785407635408,
+    "se": 0.011971321501814016
+  },
+  "SAPLMA-F|contextual|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.24774575283552178,
+    "ci_lo": 0.24339262108133405,
+    "ci_hi": 0.2513694907034684,
+    "se": 0.0019305506854410627
+  },
+  "SAPLMA-F|contextual|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.5308298488221899,
+    "ci_lo": 0.4998720963019473,
+    "ci_hi": 0.5717932397265665,
+    "se": 0.019425843876637264
+  },
+  "SAPLMA-F|contextual|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.6061327770297774,
+    "ci_lo": 0.5782882515544776,
+    "ci_hi": 0.6395294857436332,
+    "se": 0.0162582877325025
+  },
+  "SAPLMA-F|contextual|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.15931471683199067,
+    "ci_lo": 0.14097633950210423,
+    "ci_hi": 0.18834471343315948,
+    "se": 0.012362444451557682
+  },
+  "SAPLMA-F|contextual|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.26529588831133316,
+    "ci_lo": 0.25035024506693115,
+    "ci_hi": 0.2810635428624393,
+    "se": 0.007809746214188135
+  },
+  "SAPLMA-F|contextual|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.4834365316488671,
+    "ci_lo": 0.4393865037230568,
+    "ci_hi": 0.5310525139818522,
+    "se": 0.023604768386768536
+  },
+  "SAPLMA-F|contextual|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.5992435983108925,
+    "ci_lo": 0.5582973632781378,
+    "ci_hi": 0.6391086240892851,
+    "se": 0.01976135575998278
+  },
+  "SAPLMA-F|contextual|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.03755398391042064,
+    "ci_lo": 0.016582427395632947,
+    "ci_hi": 0.052272990448157676,
+    "se": 0.009606553684558181
+  },
+  "SAPLMA-F|contextual|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.1662145362858789,
+    "ci_lo": 0.15863252163894595,
+    "ci_hi": 0.17674261167388983,
+    "se": 0.004849454914907612
+  },
+  "SAPLMA-F|contextual|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8343897973464882,
+    "ci_lo": 0.8111485799959315,
+    "ci_hi": 0.8602711163990577,
+    "se": 0.012960561614275902
+  },
+  "SAPLMA-F|contextual|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.625284326747468,
+    "ci_lo": 0.579346273446441,
+    "ci_hi": 0.6598581187965515,
+    "se": 0.022252210459493642
+  },
+  "SAPLMA-F|contextual|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.22677021025151745,
+    "ci_lo": 0.20601551462552434,
+    "ci_hi": 0.2471244383900321,
+    "se": 0.010760254562211228
+  },
+  "SAPLMA-F|contextual|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.22060022352618444,
+    "ci_lo": 0.2054072432469361,
+    "ci_hi": 0.23488886938541315,
+    "se": 0.007900945537012614
+  },
+  "SAPLMA-F|contextual|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.91619676030791,
+    "ci_lo": 0.9006622210986499,
+    "ci_hi": 0.9297391532096657,
+    "se": 0.007796029304096056
+  },
+  "SAPLMA-F|contextual|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.6663419123946792,
+    "ci_lo": 0.622133650509452,
+    "ci_hi": 0.7055601611502068,
+    "se": 0.022412233736563855
+  },
+  "SAPLMA-F|contextual|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.33896349188558683,
+    "ci_lo": 0.3235311734994723,
+    "ci_hi": 0.3532138879460746,
+    "se": 0.007711306559500246
+  },
+  "SAPLMA-F|contextual|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.20944313208836576,
+    "ci_lo": 0.2043249565187953,
+    "ci_hi": 0.2141407098812967,
+    "se": 0.0027548930948157087
+  },
+  "SAPLMA-F|contextual|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9477064514744735,
+    "ci_lo": 0.934382623439042,
+    "ci_hi": 0.9567391312671039,
+    "se": 0.006092682362755896
+  },
+  "PIK|contextual|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.6203403319942394,
+    "ci_lo": 0.5951431894008938,
+    "ci_hi": 0.6480052222919863,
+    "se": 0.013533330310253354
+  },
+  "PIK|contextual|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.20225634367622958,
+    "ci_lo": 0.18065237440782075,
+    "ci_hi": 0.22931090386888453,
+    "se": 0.011832948308632319
+  },
+  "PIK|contextual|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.27879648428880105,
+    "ci_lo": 0.2691435124169759,
+    "ci_hi": 0.28738034148001246,
+    "se": 0.004791306335700674
+  },
+  "PIK|contextual|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.5960899572497131,
+    "ci_lo": 0.5587909529841996,
+    "ci_hi": 0.6318190566739096,
+    "se": 0.01948813728312175
+  },
+  "PIK|contextual|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5462766540376366,
+    "ci_lo": 0.52042916328638,
+    "ci_hi": 0.580048610250383,
+    "se": 0.01636071306343051
+  },
+  "PIK|contextual|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.3625624298479617,
+    "ci_lo": 0.3308114011325974,
+    "ci_hi": 0.3933731942495934,
+    "se": 0.014489335793739518
+  },
+  "PIK|contextual|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.3906538507723233,
+    "ci_lo": 0.36687344636919256,
+    "ci_hi": 0.41040779783666964,
+    "se": 0.010771166602884956
+  },
+  "PIK|contextual|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.44764106604760256,
+    "ci_lo": 0.40987600227178694,
+    "ci_hi": 0.4863100276431939,
+    "se": 0.02069339981048298
+  },
+  "PIK|contextual|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.7800804743150441,
+    "ci_lo": 0.7559512496550211,
+    "ci_hi": 0.8078520159276331,
+    "se": 0.013733788832283234
+  },
+  "PIK|contextual|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.45278011816148156,
+    "ci_lo": 0.43259721807652035,
+    "ci_hi": 0.4714925626242303,
+    "se": 0.009205674864680631
+  },
+  "PIK|contextual|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.3854982416156325,
+    "ci_lo": 0.3694407735176424,
+    "ci_hi": 0.400038194640945,
+    "se": 0.008580752890794288
+  },
+  "PIK|contextual|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.9319056403716683,
+    "ci_lo": 0.9185064726211515,
+    "ci_hi": 0.9425822992476558,
+    "se": 0.00667330432402814
+  },
+  "PIK|contextual|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.7024240411754941,
+    "ci_lo": 0.66375754297874,
+    "ci_hi": 0.7284025648947808,
+    "se": 0.018152280653957655
+  },
+  "PIK|contextual|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.09296006808473903,
+    "ci_lo": 0.08101992226794708,
+    "ci_hi": 0.11086271260960844,
+    "se": 0.008188154782330006
+  },
+  "PIK|contextual|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.12631593993810483,
+    "ci_lo": 0.11955617422301318,
+    "ci_hi": 0.13574523568872932,
+    "se": 0.004271349840348926
+  },
+  "PIK|contextual|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9409174479396316,
+    "ci_lo": 0.9298578459673652,
+    "ci_hi": 0.9497945157743769,
+    "se": 0.0058863010007224326
+  },
+  "PIK|contextual|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.8715735568426053,
+    "ci_lo": 0.8498429800262451,
+    "ci_hi": 0.8946814846132347,
+    "se": 0.011866029521670922
+  },
+  "PIK|contextual|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.27663186843544035,
+    "ci_lo": 0.26129605050067145,
+    "ci_hi": 0.2921284027842214,
+    "se": 0.007690880400799252
+  },
+  "PIK|contextual|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.16743577474165577,
+    "ci_lo": 0.1560223637192526,
+    "ci_hi": 0.1768565497204728,
+    "se": 0.00470686961432249
+  },
+  "PIK|contextual|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9832259893904327,
+    "ci_lo": 0.9790246237236621,
+    "ci_hi": 0.9867464001242777,
+    "se": 0.0021706745866057952
+  },
+  "CCPS|contextual|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.7416650875464261,
+    "ci_lo": 0.7153003711107347,
+    "ci_hi": 0.7647514217661296,
+    "se": 0.012535877828931298
+  },
+  "CCPS|contextual|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.10499788344478737,
+    "ci_lo": 0.08561070655435526,
+    "ci_hi": 0.1259514786415466,
+    "se": 0.011048827959375656
+  },
+  "CCPS|contextual|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.22211106683655205,
+    "ci_lo": 0.2151167086613031,
+    "ci_hi": 0.22706972056455574,
+    "se": 0.002808193401931506
+  },
+  "CCPS|contextual|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.7068940942769713,
+    "ci_lo": 0.666089204083675,
+    "ci_hi": 0.7440386948820349,
+    "se": 0.019276841773258425
+  },
+  "CCPS|contextual|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.6043069167423365,
+    "ci_lo": 0.5794061631606083,
+    "ci_hi": 0.6335692614441693,
+    "se": 0.015922442494575195
+  },
+  "CCPS|contextual|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.06697222758058985,
+    "ci_lo": 0.045334854439943416,
+    "ci_hi": 0.09448339307913238,
+    "se": 0.01324364841901614
+  },
+  "CCPS|contextual|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.23761333065268433,
+    "ci_lo": 0.2295108538269179,
+    "ci_hi": 0.2472749396606728,
+    "se": 0.004672354286002582
+  },
+  "CCPS|contextual|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.49917384382818475,
+    "ci_lo": 0.4602304104495601,
+    "ci_hi": 0.5453289423385549,
+    "se": 0.022823963265288058
+  },
+  "CCPS|contextual|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.7554974194190494,
+    "ci_lo": 0.7274131137587505,
+    "ci_hi": 0.7761694429032956,
+    "se": 0.01353267988668603
+  },
+  "CCPS|contextual|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.09443855024005492,
+    "ci_lo": 0.08164116083676269,
+    "ci_hi": 0.11062326522848077,
+    "se": 0.008055474128916034
+  },
+  "CCPS|contextual|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.1561024722084914,
+    "ci_lo": 0.1499112833020455,
+    "ci_hi": 0.16217040184921033,
+    "se": 0.00346997465516241
+  },
+  "CCPS|contextual|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.9230388588334751,
+    "ci_lo": 0.9077681104958076,
+    "ci_hi": 0.9348311841451478,
+    "se": 0.007045247980053433
+  },
+  "CCPS|contextual|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.8063257512867341,
+    "ci_lo": 0.7782253131400967,
+    "ci_hi": 0.8248067742357001,
+    "se": 0.012139859584726775
+  },
+  "CCPS|contextual|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.12650302211934156,
+    "ci_lo": 0.11281755026148835,
+    "ci_hi": 0.13977958354766803,
+    "se": 0.006823584323998289
+  },
+  "CCPS|contextual|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.11788148186661415,
+    "ci_lo": 0.1128718748995306,
+    "ci_hi": 0.12406087333773388,
+    "se": 0.0029393202190767533
+  },
+  "CCPS|contextual|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9662079345664996,
+    "ci_lo": 0.959667919341486,
+    "ci_hi": 0.9714618579057622,
+    "se": 0.0031816158923664685
+  },
+  "CCPS|contextual|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.8520001762485495,
+    "ci_lo": 0.8192686906067909,
+    "ci_hi": 0.8770150629271923,
+    "se": 0.015091249383007816
+  },
+  "CCPS|contextual|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.22437494641632372,
+    "ci_lo": 0.2115562575017147,
+    "ci_hi": 0.23854303974837107,
+    "se": 0.007037613272891061
+  },
+  "CCPS|contextual|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.134704749443567,
+    "ci_lo": 0.13055861522794915,
+    "ci_hi": 0.13979525428740575,
+    "se": 0.002393933344477814
+  },
+  "CCPS|contextual|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9796855739303513,
+    "ci_lo": 0.972836928088348,
+    "ci_hi": 0.9842032960082672,
+    "se": 0.003128173662120873
+  },
+  "PTRUE|synthesis|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5380617109561225,
+    "ci_lo": 0.49510692242022236,
+    "ci_hi": 0.5711370376210386,
+    "se": 0.0213866238290198
+  },
+  "PTRUE|synthesis|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.44250535777726097,
+    "ci_lo": 0.41106020854054637,
+    "ci_hi": 0.4725693764662399,
+    "se": 0.016360615881365014
+  },
+  "PTRUE|synthesis|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.43460312582882565,
+    "ci_lo": 0.41384462550650203,
+    "ci_hi": 0.4572329290955458,
+    "se": 0.011463886922880041
+  },
+  "PTRUE|synthesis|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.3906931692229301,
+    "ci_lo": 0.3424417150934006,
+    "ci_hi": 0.44401533513085134,
+    "se": 0.025944752018878366
+  },
+  "PTRUE|synthesis|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.49048251438689694,
+    "ci_lo": 0.4471945766768985,
+    "ci_hi": 0.5301983485064279,
+    "se": 0.023425925782014176
+  },
+  "PTRUE|synthesis|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.18769330796919745,
+    "ci_lo": 0.16118475898409426,
+    "ci_hi": 0.22161579117413882,
+    "se": 0.015900085771506794
+  },
+  "PTRUE|synthesis|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.2640251064870776,
+    "ci_lo": 0.23742840387175015,
+    "ci_hi": 0.2850515963967014,
+    "se": 0.012597603197679266
+  },
+  "PTRUE|synthesis|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.3370933032653235,
+    "ci_lo": 0.29045567498727903,
+    "ci_hi": 0.39305252713889327,
+    "se": 0.026253068485257908
+  },
+  "PTRUE|synthesis|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.4639937912964229,
+    "ci_lo": 0.4214527697016103,
+    "ci_hi": 0.5073996429233475,
+    "se": 0.02179278721140111
+  },
+  "PTRUE|synthesis|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.3349541153037111,
+    "ci_lo": 0.30139186236012666,
+    "ci_hi": 0.37358023601569507,
+    "se": 0.018920233738491655
+  },
+  "PTRUE|synthesis|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.3604769058637528,
+    "ci_lo": 0.3419271813798949,
+    "ci_hi": 0.3801338242405623,
+    "se": 0.010392082315973826
+  },
+  "PTRUE|synthesis|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.5793179682019938,
+    "ci_lo": 0.5325119653532348,
+    "ci_hi": 0.6262491678488749,
+    "se": 0.02562108805300207
+  },
+  "PTRUE|synthesis|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.5508692876722616,
+    "ci_lo": 0.5121532058107983,
+    "ci_hi": 0.5870272562300101,
+    "se": 0.019636893269634796
+  },
+  "PTRUE|synthesis|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.6071503841371827,
+    "ci_lo": 0.5754723241288185,
+    "ci_hi": 0.6389698045530614,
+    "se": 0.01794912176000404
+  },
+  "PTRUE|synthesis|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.597375471236576,
+    "ci_lo": 0.56845270692386,
+    "ci_hi": 0.6254231846047035,
+    "se": 0.016631606202420032
+  },
+  "PTRUE|synthesis|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.7024030940673818,
+    "ci_lo": 0.6573097840053025,
+    "ci_hi": 0.7425653597542818,
+    "se": 0.02344407395098122
+  },
+  "PTRUE|synthesis|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.3535381781096819,
+    "ci_lo": 0.3169516065196628,
+    "ci_hi": 0.39375705421578533,
+    "se": 0.02182253820860004
+  },
+  "PTRUE|synthesis|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.22621756575999202,
+    "ci_lo": 0.19631353078921404,
+    "ci_hi": 0.25296530979770815,
+    "se": 0.015899875754137278
+  },
+  "PTRUE|synthesis|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.2692479871928785,
+    "ci_lo": 0.24978766608473743,
+    "ci_hi": 0.2890872673323638,
+    "se": 0.010261856779516241
+  },
+  "PTRUE|synthesis|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.6041595460501639,
+    "ci_lo": 0.567613380711383,
+    "ci_hi": 0.646772463327213,
+    "se": 0.020381297285449216
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5301565580765722,
+    "ci_lo": 0.48664000411651254,
+    "ci_hi": 0.5770897234265566,
+    "se": 0.02506752942318718
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.051992318549081325,
+    "ci_lo": 0.021713887048758436,
+    "ci_hi": 0.08151339705916441,
+    "se": 0.015920246592520757
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.23511361198647182,
+    "ci_lo": 0.2307531949209386,
+    "ci_hi": 0.2404241374448575,
+    "se": 0.0026209636248012537
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.3963276767593728,
+    "ci_lo": 0.34715288896471147,
+    "ci_hi": 0.4612044769903706,
+    "se": 0.028313039813172278
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5304629435474476,
+    "ci_lo": 0.49620817375912313,
+    "ci_hi": 0.5713034777221327,
+    "se": 0.023010665694722012
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.16174037440165745,
+    "ci_lo": 0.13518441986234175,
+    "ci_hi": 0.19530368986798655,
+    "se": 0.017168544261170652
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.2536170091357736,
+    "ci_lo": 0.23669238933024334,
+    "ci_hi": 0.26973368698661737,
+    "se": 0.009588647278306318
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.3421063022620396,
+    "ci_lo": 0.3002906881092663,
+    "ci_hi": 0.3908098490027822,
+    "se": 0.024882516909213382
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.6369617224880383,
+    "ci_lo": 0.592659057279402,
+    "ci_hi": 0.6684730967778534,
+    "se": 0.021566492547291722
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.1535667779401959,
+    "ci_lo": 0.11966123118294472,
+    "ci_hi": 0.19141896879056672,
+    "se": 0.01842614582388762
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.2628722295133086,
+    "ci_lo": 0.24604649123293165,
+    "ci_hi": 0.2816401430605065,
+    "se": 0.009218968780753423
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.6856067253982625,
+    "ci_lo": 0.6343828964142558,
+    "ci_hi": 0.7325911025059783,
+    "se": 0.026477729141400425
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.5262814013743382,
+    "ci_lo": 0.4885682886553926,
+    "ci_hi": 0.5620868709238028,
+    "se": 0.020475496230719613
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.3226915579325768,
+    "ci_lo": 0.2968505632982855,
+    "ci_hi": 0.36527654708823903,
+    "se": 0.017773642036831665
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.34870685799657963,
+    "ci_lo": 0.32247911995806056,
+    "ci_hi": 0.3816857254561215,
+    "se": 0.01527090260808163
+  },
+  "SAPLMA-F|synthesis|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.6587776797737581,
+    "ci_lo": 0.6176394672536103,
+    "ci_hi": 0.7042344101332548,
+    "se": 0.023709614372486355
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.6686021646873046,
+    "ci_lo": 0.6291216433095422,
+    "ci_hi": 0.7047832818748542,
+    "se": 0.019928399638268816
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.19368773900674588,
+    "ci_lo": 0.16538934798092036,
+    "ci_hi": 0.2232848143587815,
+    "se": 0.015589572367345069
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.23153932020387785,
+    "ci_lo": 0.22339490073121085,
+    "ci_hi": 0.24073388674439689,
+    "se": 0.004280079691026741
+  },
+  "SAPLMA-F|synthesis|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.8390172267504403,
+    "ci_lo": 0.814494681333947,
+    "ci_hi": 0.8636816612046636,
+    "se": 0.013601363008653411
+  },
+  "PIK|synthesis|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5414422765663165,
+    "ci_lo": 0.4982507669598098,
+    "ci_hi": 0.5816536667239927,
+    "se": 0.02199537742579773
+  },
+  "PIK|synthesis|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.30850811074463474,
+    "ci_lo": 0.27751617938699447,
+    "ci_hi": 0.34059790893706504,
+    "se": 0.016649731484536995
+  },
+  "PIK|synthesis|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.3332460745515782,
+    "ci_lo": 0.31969385507612275,
+    "ci_hi": 0.3480586668094802,
+    "se": 0.007460313799329094
+  },
+  "PIK|synthesis|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.4303439221470269,
+    "ci_lo": 0.3756846577481675,
+    "ci_hi": 0.49105203138896397,
+    "se": 0.030473241719339468
+  },
+  "PIK|synthesis|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5023570435606501,
+    "ci_lo": 0.4680566894384997,
+    "ci_hi": 0.5396284814309439,
+    "se": 0.020487178489025704
+  },
+  "PIK|synthesis|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.44408766143100087,
+    "ci_lo": 0.4101706672162242,
+    "ci_hi": 0.4811801065904357,
+    "se": 0.018341159459376206
+  },
+  "PIK|synthesis|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.4557891780341855,
+    "ci_lo": 0.42904742313805677,
+    "ci_hi": 0.4856831386096119,
+    "se": 0.015552501953473255
+  },
+  "PIK|synthesis|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.3240097081301087,
+    "ci_lo": 0.27392288844459295,
+    "ci_hi": 0.3704402941890647,
+    "se": 0.025629454047305142
+  },
+  "PIK|synthesis|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.7355676122123491,
+    "ci_lo": 0.7028145248564348,
+    "ci_hi": 0.7687154660019726,
+    "se": 0.01852980092048504
+  },
+  "PIK|synthesis|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.4063424915602524,
+    "ci_lo": 0.3758021904922674,
+    "ci_hi": 0.43389107829686807,
+    "se": 0.016075180780139427
+  },
+  "PIK|synthesis|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.38168118338125734,
+    "ci_lo": 0.3531436095707144,
+    "ci_hi": 0.4071742297570884,
+    "se": 0.01382661588375591
+  },
+  "PIK|synthesis|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8170759771371293,
+    "ci_lo": 0.7813707946329032,
+    "ci_hi": 0.8590989894613609,
+    "se": 0.019004716764433802
+  },
+  "PIK|synthesis|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.7030303030303031,
+    "ci_lo": 0.6695251815942734,
+    "ci_hi": 0.7353167870260153,
+    "se": 0.017608128278665557
+  },
+  "PIK|synthesis|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.0867078765758669,
+    "ci_lo": 0.06772259136574119,
+    "ci_hi": 0.1212266228605471,
+    "se": 0.015166809136419573
+  },
+  "PIK|synthesis|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.20957434733402064,
+    "ci_lo": 0.1948268157688473,
+    "ci_hi": 0.22517783590143134,
+    "se": 0.008525314799606845
+  },
+  "PIK|synthesis|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.8319999877276959,
+    "ci_lo": 0.7985483133417921,
+    "ci_hi": 0.859544145451668,
+    "se": 0.01672481592141872
+  },
+  "PIK|synthesis|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.8390630654340887,
+    "ci_lo": 0.814051808638862,
+    "ci_hi": 0.869649516025031,
+    "se": 0.014289446019532786
+  },
+  "PIK|synthesis|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.22838425211101301,
+    "ci_lo": 0.20011098309278644,
+    "ci_hi": 0.2510635756585181,
+    "se": 0.014047659505385446
+  },
+  "PIK|synthesis|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.2088511133059262,
+    "ci_lo": 0.19208608304892924,
+    "ci_hi": 0.22067699423828407,
+    "se": 0.00755492355570394
+  },
+  "PIK|synthesis|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9304511715683098,
+    "ci_lo": 0.91504596473076,
+    "ci_hi": 0.9493298628333776,
+    "se": 0.008940542169628694
+  },
+  "CCPS|synthesis|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.6093515493952504,
+    "ci_lo": 0.568867999723928,
+    "ci_hi": 0.6422011913527893,
+    "se": 0.020100423946801328
+  },
+  "CCPS|synthesis|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.035363322153141356,
+    "ci_lo": 0.01503235182837043,
+    "ci_hi": 0.06438320619273556,
+    "se": 0.013282388425020792
+  },
+  "CCPS|synthesis|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.22454392348284496,
+    "ci_lo": 0.21797025222428806,
+    "ci_hi": 0.2333803538252546,
+    "se": 0.004296089567305151
+  },
+  "CCPS|synthesis|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.4935422283769485,
+    "ci_lo": 0.4396861754637624,
+    "ci_hi": 0.5523367576412632,
+    "se": 0.029108152608263143
+  },
+  "CCPS|synthesis|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5211706779121331,
+    "ci_lo": 0.4896751361998503,
+    "ci_hi": 0.5609729324196031,
+    "se": 0.019890617841503505
+  },
+  "CCPS|synthesis|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.07996947603075917,
+    "ci_lo": 0.06242867514725131,
+    "ci_hi": 0.11502727089127944,
+    "se": 0.012963350182443645
+  },
+  "CCPS|synthesis|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.2365625603660863,
+    "ci_lo": 0.2251038035797199,
+    "ci_hi": 0.24874322018074113,
+    "se": 0.006339422399595452
+  },
+  "CCPS|synthesis|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.3361591631349603,
+    "ci_lo": 0.2901645125526356,
+    "ci_hi": 0.37976425207610204,
+    "se": 0.02206473999881593
+  },
+  "CCPS|synthesis|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.7866220950102528,
+    "ci_lo": 0.7513478298414312,
+    "ci_hi": 0.8150101779727847,
+    "se": 0.01713379030855085
+  },
+  "CCPS|synthesis|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.1292155800065445,
+    "ci_lo": 0.0988575241328534,
+    "ci_hi": 0.15561472308573296,
+    "se": 0.01635564764927772
+  },
+  "CCPS|synthesis|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.20486090195740705,
+    "ci_lo": 0.19592139795812638,
+    "ci_hi": 0.21446970045878624,
+    "se": 0.005130671397257062
+  },
+  "CCPS|synthesis|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8511137496220432,
+    "ci_lo": 0.8234498118360357,
+    "ci_hi": 0.8814699646607188,
+    "se": 0.01673209798769411
+  },
+  "CCPS|synthesis|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.7892343509443881,
+    "ci_lo": 0.759076218983196,
+    "ci_hi": 0.8167322701117652,
+    "se": 0.015792847785153136
+  },
+  "CCPS|synthesis|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.15158192899214662,
+    "ci_lo": 0.12024206990346857,
+    "ci_hi": 0.18103142383835075,
+    "se": 0.016414783894059516
+  },
+  "CCPS|synthesis|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.20327489163863097,
+    "ci_lo": 0.19343545274584706,
+    "ci_hi": 0.21551972683811688,
+    "se": 0.006529075138030066
+  },
+  "CCPS|synthesis|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.8839647660474499,
+    "ci_lo": 0.8625652468316708,
+    "ci_hi": 0.9032219595368425,
+    "se": 0.012376637619555637
+  },
+  "CCPS|synthesis|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.7913280915879857,
+    "ci_lo": 0.764643276694017,
+    "ci_hi": 0.8257929705036118,
+    "se": 0.0166018362096017
+  },
+  "CCPS|synthesis|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.12230294911649214,
+    "ci_lo": 0.09897652670975131,
+    "ci_hi": 0.15084490551374344,
+    "se": 0.014109969127094876
+  },
+  "CCPS|synthesis|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.18832058432214546,
+    "ci_lo": 0.17910845154867122,
+    "ci_hi": 0.19517598601535976,
+    "se": 0.004211042124267513
+  },
+  "CCPS|synthesis|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9093401911948708,
+    "ci_lo": 0.8923593665861057,
+    "ci_hi": 0.9313851573086852,
+    "se": 0.010692873093017223
+  },
+  "PTRUE|clinical_inference|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.584174430641822,
+    "ci_lo": 0.5338911217397183,
+    "ci_hi": 0.6251749981928557,
+    "se": 0.02444977946776162
+  },
+  "PTRUE|clinical_inference|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.3352864344719968,
+    "ci_lo": 0.30317164219526294,
+    "ci_hi": 0.36923943168051493,
+    "se": 0.016442559111282735
+  },
+  "PTRUE|clinical_inference|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.35865961722710415,
+    "ci_lo": 0.3393651283594917,
+    "ci_hi": 0.37951705241020134,
+    "se": 0.010123353681813135
+  },
+  "PTRUE|clinical_inference|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.5359499728545055,
+    "ci_lo": 0.4848356975643229,
+    "ci_hi": 0.5916422996130682,
+    "se": 0.029625125613321323
+  },
+  "PTRUE|clinical_inference|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.4608011796510199,
+    "ci_lo": 0.42273120992122293,
+    "ci_hi": 0.5028923305595786,
+    "se": 0.021205607232643642
+  },
+  "PTRUE|clinical_inference|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.38398615361246113,
+    "ci_lo": 0.3589792353936144,
+    "ci_hi": 0.42699795248157346,
+    "se": 0.01826845391650707
+  },
+  "PTRUE|clinical_inference|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.4097291364034989,
+    "ci_lo": 0.3890368859853365,
+    "ci_hi": 0.4395861042162606,
+    "se": 0.014159117588636512
+  },
+  "PTRUE|clinical_inference|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.4777795146811532,
+    "ci_lo": 0.4425278420401221,
+    "ci_hi": 0.5311889177707463,
+    "se": 0.025033364957737024
+  },
+  "PTRUE|clinical_inference|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.5228440411024681,
+    "ci_lo": 0.45529690460296457,
+    "ci_hi": 0.5869161029350489,
+    "se": 0.03688272897899455
+  },
+  "PTRUE|clinical_inference|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.6150589930319706,
+    "ci_lo": 0.5899332498060235,
+    "ci_hi": 0.6459962725432382,
+    "se": 0.014466069682850833
+  },
+  "PTRUE|clinical_inference|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.5015310963159916,
+    "ci_lo": 0.4857572899607538,
+    "ci_hi": 0.5185088076418314,
+    "se": 0.00877140737834595
+  },
+  "PTRUE|clinical_inference|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8755346683071885,
+    "ci_lo": 0.8410016637611141,
+    "ci_hi": 0.9077478535051378,
+    "se": 0.017287623794703243
+  },
+  "PTRUE|clinical_inference|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.5687442974452555,
+    "ci_lo": 0.5010701378186289,
+    "ci_hi": 0.6265873496100551,
+    "se": 0.036682542802874474
+  },
+  "PTRUE|clinical_inference|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.8535906527270533,
+    "ci_lo": 0.8330782991371367,
+    "ci_hi": 0.8775409083691686,
+    "se": 0.011499548100352997
+  },
+  "PTRUE|clinical_inference|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.821905725438061,
+    "ci_lo": 0.8032621844367825,
+    "ci_hi": 0.8434573690281717,
+    "se": 0.01054185865161539
+  },
+  "PTRUE|clinical_inference|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9185028004076272,
+    "ci_lo": 0.8900110364476254,
+    "ci_hi": 0.9433250195013538,
+    "se": 0.013827257881247584
+  },
+  "PTRUE|clinical_inference|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.4815162907268171,
+    "ci_lo": 0.3961644866539309,
+    "ci_hi": 0.5676804368471035,
+    "se": 0.04450249617915249
+  },
+  "PTRUE|clinical_inference|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.25303006592226446,
+    "ci_lo": 0.2363740593167475,
+    "ci_hi": 0.28099374633875535,
+    "se": 0.011193273011620755
+  },
+  "PTRUE|clinical_inference|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.1539798342279278,
+    "ci_lo": 0.1363544402260247,
+    "ci_hi": 0.1710852727564404,
+    "se": 0.008917486383870724
+  },
+  "PTRUE|clinical_inference|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9256126038430315,
+    "ci_lo": 0.9018353300134104,
+    "ci_hi": 0.9581544196756566,
+    "se": 0.016122703046619533
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.5923050379572119,
+    "ci_lo": 0.5497389249451909,
+    "ci_hi": 0.6299217864670013,
+    "se": 0.021267214955560797
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.026890411486033525,
+    "ci_lo": 0.007233492743978707,
+    "ci_hi": 0.057717566707116696,
+    "se": 0.013477182907904534
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.24489167227166672,
+    "ci_lo": 0.2389931924823448,
+    "ci_hi": 0.25013056210206375,
+    "se": 0.0027990467629892767
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.5816588567526171,
+    "ci_lo": 0.5203974880879905,
+    "ci_hi": 0.6252923306387267,
+    "se": 0.028006948054516104
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5948155192494684,
+    "ci_lo": 0.5554306698100588,
+    "ci_hi": 0.6339768298038894,
+    "se": 0.021923331432016878
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.1458767321618164,
+    "ci_lo": 0.11700898089653086,
+    "ci_hi": 0.18758031145678644,
+    "se": 0.01962264656948053
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.2700493893123508,
+    "ci_lo": 0.2556613532828671,
+    "ci_hi": 0.2919280783889771,
+    "se": 0.009794052634871693
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.58676739731393,
+    "ci_lo": 0.5396859108199209,
+    "ci_hi": 0.6404350605648558,
+    "se": 0.02531430161956473
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.46482761932200134,
+    "ci_lo": 0.3799571163788146,
+    "ci_hi": 0.5236419765883052,
+    "se": 0.03715673504048825
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.12009679082951519,
+    "ci_lo": 0.09870177179915841,
+    "ci_hi": 0.14602843314360558,
+    "se": 0.012768835732775208
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.12582025795300303,
+    "ci_lo": 0.11270101264051466,
+    "ci_hi": 0.13667287777406031,
+    "se": 0.006465543036229601
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.8636725829468397,
+    "ci_lo": 0.8229894741712466,
+    "ci_hi": 0.897058104086328,
+    "se": 0.01918739132866209
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.6860601049270072,
+    "ci_lo": 0.6113714148828113,
+    "ci_hi": 0.741243037055579,
+    "se": 0.03165058636446589
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.15694620643416723,
+    "ci_lo": 0.13066204073038054,
+    "ci_hi": 0.19016247994062535,
+    "se": 0.014983589714548204
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.1590363680267331,
+    "ci_lo": 0.13540279534575164,
+    "ci_hi": 0.1808625725656197,
+    "se": 0.012230956591067616
+  },
+  "SAPLMA-F|clinical_inference|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9518896651332309,
+    "ci_lo": 0.934830849706992,
+    "ci_hi": 0.9678581703600793,
+    "se": 0.008284631655726016
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.6412280701754386,
+    "ci_lo": 0.5748555539732347,
+    "ci_hi": 0.7109018568828398,
+    "se": 0.03908416857415999
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.3321969361574042,
+    "ci_lo": 0.31768030692013655,
+    "ci_hi": 0.3513638541285021,
+    "se": 0.009538405850205614
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.173751536540641,
+    "ci_lo": 0.16822057602739854,
+    "ci_hi": 0.17911079275677716,
+    "se": 0.0029153956490307257
+  },
+  "SAPLMA-F|clinical_inference|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.969044911965554,
+    "ci_lo": 0.9592835426330573,
+    "ci_hi": 0.9812269606074479,
+    "se": 0.005898120822593342
+  },
+  "PIK|clinical_inference|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.6764579020013802,
+    "ci_lo": 0.6395928933300431,
+    "ci_hi": 0.7087628558476042,
+    "se": 0.020600032982276733
+  },
+  "PIK|clinical_inference|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.25658286304450506,
+    "ci_lo": 0.22980107648870332,
+    "ci_hi": 0.2902949535452268,
+    "se": 0.016345869914738295
+  },
+  "PIK|clinical_inference|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.29147038156425803,
+    "ci_lo": 0.27772253321288115,
+    "ci_hi": 0.31191564313812614,
+    "se": 0.008537787059633158
+  },
+  "PIK|clinical_inference|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.6757993963345648,
+    "ci_lo": 0.6128673196064565,
+    "ci_hi": 0.7257755566318402,
+    "se": 0.027958127694739123
+  },
+  "PIK|clinical_inference|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.5372434205605479,
+    "ci_lo": 0.5028297320791963,
+    "ci_hi": 0.5783259976725065,
+    "se": 0.0211079867983358
+  },
+  "PIK|clinical_inference|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.3524574075816096,
+    "ci_lo": 0.3147303330066315,
+    "ci_hi": 0.38550328036807174,
+    "se": 0.01751849182926554
+  },
+  "PIK|clinical_inference|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.3856892984396251,
+    "ci_lo": 0.34730099074026294,
+    "ci_hi": 0.40501016403080664,
+    "se": 0.01483354018305018
+  },
+  "PIK|clinical_inference|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.5327282353696349,
+    "ci_lo": 0.498715376843089,
+    "ci_hi": 0.5865701262707654,
+    "se": 0.023963591656881875
+  },
+  "PIK|clinical_inference|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.8274272543935465,
+    "ci_lo": 0.7890645037524778,
+    "ci_hi": 0.857521170153038,
+    "se": 0.019845380864738235
+  },
+  "PIK|clinical_inference|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.4850508811373075,
+    "ci_lo": 0.45660382433475527,
+    "ci_hi": 0.5081070871889642,
+    "se": 0.015117766249270942
+  },
+  "PIK|clinical_inference|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.3929026547794196,
+    "ci_lo": 0.3686584310993999,
+    "ci_hi": 0.41835767975072435,
+    "se": 0.014107765883655745
+  },
+  "PIK|clinical_inference|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.9714177318322985,
+    "ci_lo": 0.9603490409581539,
+    "ci_hi": 0.97945616917117,
+    "se": 0.004973026104601459
+  },
+  "PIK|clinical_inference|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.6794308850364963,
+    "ci_lo": 0.611085147530032,
+    "ci_hi": 0.7282845342576664,
+    "se": 0.029529639071221393
+  },
+  "PIK|clinical_inference|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.07543329339401393,
+    "ci_lo": 0.05625640780975421,
+    "ci_hi": 0.10323235515894648,
+    "se": 0.010728531081647447
+  },
+  "PIK|clinical_inference|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.10103085693337022,
+    "ci_lo": 0.08533509592341326,
+    "ci_hi": 0.11595863746518116,
+    "se": 0.007658746233017947
+  },
+  "PIK|clinical_inference|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.951878615818604,
+    "ci_lo": 0.9364345932192777,
+    "ci_hi": 0.9646738604511645,
+    "se": 0.007387519558733632
+  },
+  "PIK|clinical_inference|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.8861319966583124,
+    "ci_lo": 0.8308013629888631,
+    "ci_hi": 0.9183054790388914,
+    "se": 0.02217651554248102
+  },
+  "PIK|clinical_inference|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.22133943657664693,
+    "ci_lo": 0.20160429460647838,
+    "ci_hi": 0.23967421269044278,
+    "se": 0.01044037288971322
+  },
+  "PIK|clinical_inference|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.1162929024801458,
+    "ci_lo": 0.1068072894823094,
+    "ci_hi": 0.12715646112908943,
+    "se": 0.005355004918111465
+  },
+  "PIK|clinical_inference|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9904453999767491,
+    "ci_lo": 0.9850486591238743,
+    "ci_hi": 0.9947106155010161,
+    "se": 0.0025069136350082816
+  },
+  "CCPS|clinical_inference|Qwen2.5-0.5B-Instruct|auroc": {
+    "point": 0.7904265873015873,
+    "ci_lo": 0.7548645034130597,
+    "ci_hi": 0.82721586472974,
+    "se": 0.018819021071595225
+  },
+  "CCPS|clinical_inference|Qwen2.5-0.5B-Instruct|ece": {
+    "point": 0.15608564389297389,
+    "ci_lo": 0.11780770495046977,
+    "ci_hi": 0.18171027688419117,
+    "se": 0.01800751523231243
+  },
+  "CCPS|clinical_inference|Qwen2.5-0.5B-Instruct|brier": {
+    "point": 0.21424618421816358,
+    "ci_lo": 0.20707335721433553,
+    "ci_hi": 0.22075613417656592,
+    "se": 0.0037851717802474282
+  },
+  "CCPS|clinical_inference|Qwen2.5-0.5B-Instruct|aucpr": {
+    "point": 0.7717564632575198,
+    "ci_lo": 0.7245880890844745,
+    "ci_hi": 0.8171733707484184,
+    "se": 0.025481521839205053
+  },
+  "CCPS|clinical_inference|Llama-3.2-1B-Instruct|auroc": {
+    "point": 0.619653370660455,
+    "ci_lo": 0.577504825958961,
+    "ci_hi": 0.6717154689282347,
+    "se": 0.02312994334223391
+  },
+  "CCPS|clinical_inference|Llama-3.2-1B-Instruct|ece": {
+    "point": 0.20758016748366012,
+    "ci_lo": 0.1812692679610907,
+    "ci_hi": 0.2518785663679534,
+    "se": 0.01786325234190367
+  },
+  "CCPS|clinical_inference|Llama-3.2-1B-Instruct|brier": {
+    "point": 0.28654416090522716,
+    "ci_lo": 0.27451690953541424,
+    "ci_hi": 0.30355921224051824,
+    "se": 0.007509217314649585
+  },
+  "CCPS|clinical_inference|Llama-3.2-1B-Instruct|aucpr": {
+    "point": 0.6052159437188254,
+    "ci_lo": 0.5476322676740317,
+    "ci_hi": 0.6719360689214398,
+    "se": 0.029937334819110765
+  },
+  "CCPS|clinical_inference|Qwen2.5-1.5B-Instruct|auroc": {
+    "point": 0.8213171036204744,
+    "ci_lo": 0.782432281703099,
+    "ci_hi": 0.8582177935633962,
+    "se": 0.02073158093038252
+  },
+  "CCPS|clinical_inference|Qwen2.5-1.5B-Instruct|ece": {
+    "point": 0.168038960375817,
+    "ci_lo": 0.14787821052900327,
+    "ci_hi": 0.1922002655228758,
+    "se": 0.011656373036633123
+  },
+  "CCPS|clinical_inference|Qwen2.5-1.5B-Instruct|brier": {
+    "point": 0.12432861328125,
+    "ci_lo": 0.11598118660496731,
+    "ci_hi": 0.13243148404788346,
+    "se": 0.004498345682816603
+  },
+  "CCPS|clinical_inference|Qwen2.5-1.5B-Instruct|aucpr": {
+    "point": 0.9698143480456711,
+    "ci_lo": 0.9588634336300594,
+    "ci_hi": 0.9785534975773409,
+    "se": 0.005057364836939156
+  },
+  "CCPS|clinical_inference|Llama-3.2-3B-Instruct|auroc": {
+    "point": 0.8261005930656934,
+    "ci_lo": 0.7752418599652477,
+    "ci_hi": 0.860515046550198,
+    "se": 0.02452252678372909
+  },
+  "CCPS|clinical_inference|Llama-3.2-3B-Instruct|ece": {
+    "point": 0.15400965073529413,
+    "ci_lo": 0.1360254225388072,
+    "ci_hi": 0.17601230596405226,
+    "se": 0.010557763047291177
+  },
+  "CCPS|clinical_inference|Llama-3.2-3B-Instruct|brier": {
+    "point": 0.10708156909817963,
+    "ci_lo": 0.09851364497265784,
+    "ci_hi": 0.1148445659213596,
+    "se": 0.004583306131638853
+  },
+  "CCPS|clinical_inference|Llama-3.2-3B-Instruct|aucpr": {
+    "point": 0.9755963973486718,
+    "ci_lo": 0.965756761391158,
+    "ci_hi": 0.9834144090421204,
+    "se": 0.004524198472157867
+  },
+  "CCPS|clinical_inference|Qwen2.5-3B-Instruct|auroc": {
+    "point": 0.8989974937343359,
+    "ci_lo": 0.8554055576223545,
+    "ci_hi": 0.9314146308512365,
+    "se": 0.019744915714461544
+  },
+  "CCPS|clinical_inference|Qwen2.5-3B-Instruct|ece": {
+    "point": 0.24647352430555564,
+    "ci_lo": 0.23323567708333331,
+    "ci_hi": 0.2651383144403594,
+    "se": 0.008798980941498294
+  },
+  "CCPS|clinical_inference|Qwen2.5-3B-Instruct|brier": {
+    "point": 0.11594932531219682,
+    "ci_lo": 0.10933727812922857,
+    "ci_hi": 0.12086361155790441,
+    "se": 0.0030761507929496913
+  },
+  "CCPS|clinical_inference|Qwen2.5-3B-Instruct|aucpr": {
+    "point": 0.9912642136181963,
+    "ci_lo": 0.9865048444305626,
+    "ci_hi": 0.9954081049801959,
+    "se": 0.002448035182621761
+  }
+}

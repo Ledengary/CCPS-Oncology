@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "CCPS-Oncology: Confidence Estimation for Safe Automation of Oncology Chart Review"
+message: "If you use this code or the released datasets, please cite the manuscript below."
+type: software
+authors:
+  - family-names: Khanmohammadi
+    given-names: Reza
+  - family-names: Ghanem
+    given-names: Ahmed I.
+  - family-names: Jee
+    given-names: Yoonsun
+  - family-names: Bhatnagar
+    given-names: Aseem
+  - family-names: Siddiqui
+    given-names: Shayan
+  - family-names: Bagher-Ebadian
+    given-names: Hassan
+  - family-names: Movsas
+    given-names: Benjamin
+  - family-names: Ghassemi
+    given-names: Mohammad M.
+  - family-names: Thind
+    given-names: Kundan
+repository-code: "https://github.com/Ledengary/CCPS-Oncology"
+license: MIT
+preferred-citation:
+  type: generic
+  title: "Confidence estimation determines safe automation of oncology chart review across clinical reasoning complexity tiers"
+  authors:
+    - family-names: Khanmohammadi
+      given-names: Reza
+    - family-names: Ghanem
+      given-names: Ahmed I.
+    - family-names: Jee
+      given-names: Yoonsun
+    - family-names: Bhatnagar
+      given-names: Aseem
+    - family-names: Siddiqui
+      given-names: Shayan
+    - family-names: Bagher-Ebadian
+      given-names: Hassan
+    - family-names: Movsas
+      given-names: Benjamin
+    - family-names: Ghassemi
+      given-names: Mohammad M.
+    - family-names: Thind
+      given-names: Kundan
+  year: 2026

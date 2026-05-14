@@ -1,0 +1,254 @@
+{
+  "contextual|PTRUE|auroc": {
+    "delta": 0.21973916147492378,
+    "p_value": 0.0,
+    "p_value_corrected": 0.0,
+    "wilcoxon_statistic": 6190840.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PTRUE|ece": {
+    "delta": -0.30407409097083343,
+    "p_value": 0.0,
+    "p_value_corrected": 0.0,
+    "wilcoxon_statistic": 6190840.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PTRUE|brier": {
+    "delta": -0.2431200903178853,
+    "p_value": 0.0,
+    "p_value_corrected": 0.0,
+    "wilcoxon_statistic": 6190840.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PTRUE|aucpr": {
+    "delta": 0.11126274288318168,
+    "p_value": 0.0,
+    "p_value_corrected": 0.0,
+    "wilcoxon_statistic": 6190840.0,
+    "n_nonzero": 7290
+  },
+  "contextual|SAPLMA-F|auroc": {
+    "delta": 0.14005286251918977,
+    "p_value": 2.1165434435951477e-54,
+    "p_value_corrected": 2.1165434435951477e-54,
+    "wilcoxon_statistic": 10496817.0,
+    "n_nonzero": 7290
+  },
+  "contextual|SAPLMA-F|ece": {
+    "delta": -0.036325784818326316,
+    "p_value": 2.1165434435951477e-54,
+    "p_value_corrected": 2.1165434435951477e-54,
+    "wilcoxon_statistic": 10496817.0,
+    "n_nonzero": 7290
+  },
+  "contextual|SAPLMA-F|brier": {
+    "delta": -0.04817728640787502,
+    "p_value": 2.1165434435951477e-54,
+    "p_value_corrected": 2.1165434435951477e-54,
+    "wilcoxon_statistic": 10496817.0,
+    "n_nonzero": 7290
+  },
+  "contextual|SAPLMA-F|aucpr": {
+    "delta": 0.07248818316711067,
+    "p_value": 2.1165434435951477e-54,
+    "p_value_corrected": 2.1165434435951477e-54,
+    "wilcoxon_statistic": 10496817.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PIK|auroc": {
+    "delta": 0.04782005857561522,
+    "p_value": 5.659547309257575e-62,
+    "p_value_corrected": 1.131909461851515e-61,
+    "wilcoxon_statistic": 10302602.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PIK|ece": {
+    "delta": -0.15398083968095094,
+    "p_value": 5.659547309257575e-62,
+    "p_value_corrected": 1.131909461851515e-61,
+    "wilcoxon_statistic": 10302602.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PIK|brier": {
+    "delta": -0.09605743806972171,
+    "p_value": 5.659547309257575e-62,
+    "p_value_corrected": 1.131909461851515e-61,
+    "wilcoxon_statistic": 10302602.0,
+    "n_nonzero": 7290
+  },
+  "contextual|PIK|aucpr": {
+    "delta": 0.03504404088728672,
+    "p_value": 5.659547309257575e-62,
+    "p_value_corrected": 1.131909461851515e-61,
+    "wilcoxon_statistic": 10302602.0,
+    "n_nonzero": 7290
+  },
+  "synthesis|PTRUE|auroc": {
+    "delta": 0.22015225648572487,
+    "p_value": 3.252450825120481e-95,
+    "p_value_corrected": 9.757352475361443e-95,
+    "wilcoxon_statistic": 2237741.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PTRUE|ece": {
+    "delta": -0.2560174949296521,
+    "p_value": 3.252450825120481e-95,
+    "p_value_corrected": 9.757352475361443e-95,
+    "wilcoxon_statistic": 2237741.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PTRUE|brier": {
+    "delta": -0.17363314696839915,
+    "p_value": 3.252450825120481e-95,
+    "p_value_corrected": 9.757352475361443e-95,
+    "wilcoxon_statistic": 2237741.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PTRUE|aucpr": {
+    "delta": 0.17209060351369593,
+    "p_value": 3.252450825120481e-95,
+    "p_value_corrected": 9.757352475361443e-95,
+    "wilcoxon_statistic": 2237741.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|SAPLMA-F|auroc": {
+    "delta": 0.12104839493526183,
+    "p_value": 1.673529141985869e-27,
+    "p_value_corrected": 1.673529141985869e-27,
+    "wilcoxon_statistic": 2908325.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|SAPLMA-F|ece": {
+    "delta": -0.07304910230623471,
+    "p_value": 1.673529141985869e-27,
+    "p_value_corrected": 1.673529141985869e-27,
+    "wilcoxon_statistic": 2908325.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|SAPLMA-F|brier": {
+    "delta": -0.05485723341377935,
+    "p_value": 1.673529141985869e-27,
+    "p_value_corrected": 1.673529141985869e-27,
+    "wilcoxon_statistic": 2908325.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|SAPLMA-F|aucpr": {
+    "delta": 0.11045689748647987,
+    "p_value": 1.673529141985869e-27,
+    "p_value_corrected": 1.673529141985869e-27,
+    "wilcoxon_statistic": 2908325.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PIK|auroc": {
+    "delta": 0.0352492928092605,
+    "p_value": 3.467578562586173e-40,
+    "p_value_corrected": 6.935157125172346e-40,
+    "wilcoxon_statistic": 2744464.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PIK|ece": {
+    "delta": -0.1911194272247368,
+    "p_value": 3.467578562586173e-40,
+    "p_value_corrected": 6.935157125172346e-40,
+    "wilcoxon_statistic": 2744464.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PIK|brier": {
+    "delta": -0.10631580696797063,
+    "p_value": 3.467578562586173e-40,
+    "p_value_corrected": 6.935157125172346e-40,
+    "wilcoxon_statistic": 2744464.0,
+    "n_nonzero": 3820
+  },
+  "synthesis|PIK|aucpr": {
+    "delta": 0.02804786633320041,
+    "p_value": 3.467578562586173e-40,
+    "p_value_corrected": 6.935157125172346e-40,
+    "wilcoxon_statistic": 2744464.0,
+    "n_nonzero": 3820
+  },
+  "clinical_inference|PTRUE|auroc": {
+    "delta": 0.2676829817630327,
+    "p_value": 2.5956195410434218e-200,
+    "p_value_corrected": 7.786858623130265e-200,
+    "wilcoxon_statistic": 865750.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PTRUE|ece": {
+    "delta": -0.3017528705944891,
+    "p_value": 2.5956195410434218e-200,
+    "p_value_corrected": 7.786858623130265e-200,
+    "wilcoxon_statistic": 865750.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PTRUE|brier": {
+    "delta": -0.27953111135951325,
+    "p_value": 2.5956195410434218e-200,
+    "p_value_corrected": 7.786858623130265e-200,
+    "wilcoxon_statistic": 865750.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PTRUE|aucpr": {
+    "delta": 0.11605356117907568,
+    "p_value": 2.5956195410434218e-200,
+    "p_value_corrected": 7.786858623130265e-200,
+    "wilcoxon_statistic": 865750.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|SAPLMA-F|auroc": {
+    "delta": 0.19545175935028372,
+    "p_value": 1.7414789202136926e-12,
+    "p_value_corrected": 3.4829578404273852e-12,
+    "wilcoxon_statistic": 1996904.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|SAPLMA-F|ece": {
+    "delta": 0.030036173944872846,
+    "p_value": 1.7414789202136926e-12,
+    "p_value_corrected": 3.4829578404273852e-12,
+    "wilcoxon_statistic": 1996904.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|SAPLMA-F|brier": {
+    "delta": -0.02507987425787549,
+    "p_value": 1.7414789202136926e-12,
+    "p_value_corrected": 3.4829578404273852e-12,
+    "wilcoxon_statistic": 1996904.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|SAPLMA-F|aucpr": {
+    "delta": 0.07212279037534253,
+    "p_value": 1.7414789202136926e-12,
+    "p_value_corrected": 3.4829578404273852e-12,
+    "wilcoxon_statistic": 1996904.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PIK|auroc": {
+    "delta": 0.06996073794645255,
+    "p_value": 2.9704630045634706e-12,
+    "p_value_corrected": 2.9704630045634706e-12,
+    "wilcoxon_statistic": 2000552.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PIK|ece": {
+    "delta": -0.09173518698815646,
+    "p_value": 2.9704630045634706e-12,
+    "p_value_corrected": 2.9704630045634706e-12,
+    "wilcoxon_statistic": 2000552.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PIK|brier": {
+    "delta": -0.08784724827636031,
+    "p_value": 2.9704630045634706e-12,
+    "p_value_corrected": 2.9704630045634706e-12,
+    "wilcoxon_statistic": 2000552.0,
+    "n_nonzero": 3060
+  },
+  "clinical_inference|PIK|aucpr": {
+    "delta": 0.03827559733140662,
+    "p_value": 2.9704630045634706e-12,
+    "p_value_corrected": 2.9704630045634706e-12,
+    "wilcoxon_statistic": 2000552.0,
+    "n_nonzero": 3060
+  }
+}

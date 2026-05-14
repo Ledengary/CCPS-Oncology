@@ -1,0 +1,37 @@
+Dataset,Metric,Comparison,Delta,p_raw,p_corrected,Significance,n
+Contextual,ECE,CCPS vs P(True),-0.304,<1e-300,<1e-300,***,7290
+Contextual,ECE,CCPS vs SAPLMA-F,-0.036,2.12e-54,2.12e-54,***,7290
+Contextual,ECE,CCPS vs P(IK),-0.154,5.66e-62,1.13e-61,***,7290
+Contextual,BRIER,CCPS vs P(True),-0.243,<1e-300,<1e-300,***,7290
+Contextual,BRIER,CCPS vs SAPLMA-F,-0.048,2.12e-54,2.12e-54,***,7290
+Contextual,BRIER,CCPS vs P(IK),-0.096,5.66e-62,1.13e-61,***,7290
+Contextual,AUCPR,CCPS vs P(True),+0.111,<1e-300,<1e-300,***,7290
+Contextual,AUCPR,CCPS vs SAPLMA-F,+0.072,2.12e-54,2.12e-54,***,7290
+Contextual,AUCPR,CCPS vs P(IK),+0.035,5.66e-62,1.13e-61,***,7290
+Contextual,AUROC,CCPS vs P(True),+0.220,<1e-300,<1e-300,***,7290
+Contextual,AUROC,CCPS vs SAPLMA-F,+0.140,2.12e-54,2.12e-54,***,7290
+Contextual,AUROC,CCPS vs P(IK),+0.048,5.66e-62,1.13e-61,***,7290
+Synthesis,ECE,CCPS vs P(True),-0.256,3.25e-95,9.76e-95,***,3820
+Synthesis,ECE,CCPS vs SAPLMA-F,-0.073,1.67e-27,1.67e-27,***,3820
+Synthesis,ECE,CCPS vs P(IK),-0.191,3.47e-40,6.94e-40,***,3820
+Synthesis,BRIER,CCPS vs P(True),-0.174,3.25e-95,9.76e-95,***,3820
+Synthesis,BRIER,CCPS vs SAPLMA-F,-0.055,1.67e-27,1.67e-27,***,3820
+Synthesis,BRIER,CCPS vs P(IK),-0.106,3.47e-40,6.94e-40,***,3820
+Synthesis,AUCPR,CCPS vs P(True),+0.172,3.25e-95,9.76e-95,***,3820
+Synthesis,AUCPR,CCPS vs SAPLMA-F,+0.110,1.67e-27,1.67e-27,***,3820
+Synthesis,AUCPR,CCPS vs P(IK),+0.028,3.47e-40,6.94e-40,***,3820
+Synthesis,AUROC,CCPS vs P(True),+0.220,3.25e-95,9.76e-95,***,3820
+Synthesis,AUROC,CCPS vs SAPLMA-F,+0.121,1.67e-27,1.67e-27,***,3820
+Synthesis,AUROC,CCPS vs P(IK),+0.035,3.47e-40,6.94e-40,***,3820
+Clinical Inference,ECE,CCPS vs P(True),-0.302,2.60e-200,7.79e-200,***,3060
+Clinical Inference,ECE,CCPS vs SAPLMA-F,+0.030,1.74e-12,3.48e-12,***,3060
+Clinical Inference,ECE,CCPS vs P(IK),-0.092,2.97e-12,2.97e-12,***,3060
+Clinical Inference,BRIER,CCPS vs P(True),-0.280,2.60e-200,7.79e-200,***,3060
+Clinical Inference,BRIER,CCPS vs SAPLMA-F,-0.025,1.74e-12,3.48e-12,***,3060
+Clinical Inference,BRIER,CCPS vs P(IK),-0.088,2.97e-12,2.97e-12,***,3060
+Clinical Inference,AUCPR,CCPS vs P(True),+0.116,2.60e-200,7.79e-200,***,3060
+Clinical Inference,AUCPR,CCPS vs SAPLMA-F,+0.072,1.74e-12,3.48e-12,***,3060
+Clinical Inference,AUCPR,CCPS vs P(IK),+0.038,2.97e-12,2.97e-12,***,3060
+Clinical Inference,AUROC,CCPS vs P(True),+0.268,2.60e-200,7.79e-200,***,3060
+Clinical Inference,AUROC,CCPS vs SAPLMA-F,+0.195,1.74e-12,3.48e-12,***,3060
+Clinical Inference,AUROC,CCPS vs P(IK),+0.070,2.97e-12,2.97e-12,***,3060

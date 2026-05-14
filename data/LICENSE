@@ -1,0 +1,32 @@
+PhysioNet Credentialed Health Data License 1.5.0
+=================================================
+
+The CORTEX benchmark distributed on PhysioNet (source/), and the numeric
+artifacts shipped alongside this codebase (predictions/, confidence_scores/,
+trained_models/), are released under the PhysioNet Credentialed Health Data
+License 1.5.0 — the same license under which the source CORAL dataset
+(Sushil et al., 2024), EHRNoteQA, and MIMIC-IV are distributed.
+
+Full license text:
+https://physionet.org/about/licenses/physionet-credentialed-health-data-license-150/
+
+Summary of obligations:
+
+1. Access requires a credentialed PhysioNet account, completion of CITI human
+   subjects research training, and a signed data use agreement.
+
+2. Use is limited to non-commercial research. Commercial use is not permitted.
+
+3. Redistribution to non-credentialed individuals is not permitted.
+
+4. Users must cite the accompanying paper and the source CORAL dataset:
+   - Khanmohammadi R et al., Confidence estimation determines safe automation
+     of oncology chart review across clinical reasoning complexity tiers,
+     2026.
+   - Sushil M et al., CORAL: Expert-Curated Oncology Reports to Advance
+     Language Model Inference, NEJM AI, 2024.
+
+5. Re-identification attempts on any patient are prohibited.
+
+The accompanying code in this repository (everything outside the data/
+directory) is released under the MIT License (see top-level LICENSE).

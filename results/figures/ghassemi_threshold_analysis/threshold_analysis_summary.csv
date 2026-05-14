@@ -1,0 +1,19 @@
+Dataset,Method,Mean τ,Mean % Automated,Mean Accuracy,Target Accuracy
+CORAL-MCQA-Contextual,P(True),0.930,0.3%,0.952,0.950
+CORAL-MCQA-Contextual,P(IK),0.503,33.0%,0.953,0.950
+CORAL-MCQA-Contextual,SAPLMA-M,N/A,nan%,N/A,0.950
+CORAL-MCQA-Contextual,SAPLMA-UM,N/A,nan%,N/A,0.950
+CORAL-MCQA-Contextual,SAPLMA-F,N/A,0.0%,N/A,0.950
+CORAL-MCQA-Contextual,CCPS (Ours),0.680,36.4%,0.953,0.950
+CORAL-MCQA-Synthesis,P(True),N/A,0.0%,N/A,0.950
+CORAL-MCQA-Synthesis,P(IK),0.730,12.6%,0.953,0.950
+CORAL-MCQA-Synthesis,SAPLMA-M,N/A,nan%,N/A,0.950
+CORAL-MCQA-Synthesis,SAPLMA-UM,N/A,nan%,N/A,0.950
+CORAL-MCQA-Synthesis,SAPLMA-F,N/A,0.0%,N/A,0.950
+CORAL-MCQA-Synthesis,CCPS (Ours),0.730,14.5%,0.959,0.950
+CORAL-MCQA-Clinical-Inference,P(True),N/A,0.0%,N/A,0.950
+CORAL-MCQA-Clinical-Inference,P(IK),0.557,41.6%,0.965,0.950
+CORAL-MCQA-Clinical-Inference,SAPLMA-M,N/A,nan%,N/A,0.950
+CORAL-MCQA-Clinical-Inference,SAPLMA-UM,N/A,nan%,N/A,0.950
+CORAL-MCQA-Clinical-Inference,SAPLMA-F,0.620,14.9%,0.952,0.950
+CORAL-MCQA-Clinical-Inference,CCPS (Ours),0.625,47.3%,0.967,0.950
